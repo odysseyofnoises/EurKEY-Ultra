@@ -26,7 +26,7 @@ I tested this keyboard layout with typing tests on keyhero.com, 10fastfingers.co
 
 <img src="screenshots/layout/altgr-shift.png" width="800">
 
-## Greek Symbols Layer
+## Greek Symbols Layer (for Math)
 
 <img src="screenshots/layout/greek.png" width="800">
 
