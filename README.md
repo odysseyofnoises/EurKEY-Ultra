@@ -20,31 +20,31 @@ I tested this keyboard layout with typing tests on keyhero.com, 10fastfingers.co
 
 ## AltGr Layer
 
-<img src="screenshots/layout-altgr.png" width="800">
+<img src="screenshots/layout/altgr.png" width="800">
 
 ## AlGr + Shift Layer
 
-<img src="screenshots/layout-altgr-shift.png" width="800">
+<img src="screenshots/layout/altgr-shift.png" width="800">
 
 ## Greek Symbols Layer
 
-<img src="screenshots/layout-greek.png" width="800">
+<img src="screenshots/layout/greek.png" width="800">
 
 ## Math Layer 1 (Unshifted)
 
-<img src="screenshots/layout-math.png" width="800">
+<img src="screenshots/layout/math.png" width="800">
 
 ## Math Layer 2 (Shifted)
 
-<img src="screenshots/layout-math-shift.png" width="800">
+<img src="screenshots/layout/math-shift.png" width="800">
 
 ## Misc. Symbols Layer 1 (Unshifted)
 
-<img src="screenshots/layout-misc-symbols.png" width="800">
+<img src="screenshots/layout/misc-symbols.png" width="800">
 
 ## Misc. Symbols Layer 2 (Shifted)
 
-<img src="screenshots/layout-misc-symbols-shift.png" width="800">
+<img src="screenshots/layout/misc-symbols-shift.png" width="800">
 
 # Visual Mnemonic for Accents
 
