@@ -11,10 +11,9 @@ EurKEY Ultra adds many characters that are missing in EurKEY. Some of these incl
 * Romanian comma-below support for ț and ș
 * Turkish dotless ı and capital dotted İ
 * Easier access to letters with ogonek, like ą and ę
+* Letters like ř and š for Czech and Slovak can also be typed using fewer keystrokes than EurKEY.
 
-Letters like ř and š for Czech and Slovak can be typed using fewer keystrokes than EurKEY. My layout uses more individual dead keys, but most letters can be typed in only 3 keystrokes. For example, to type ř, you use AltGr + 5, and then hit the r key.
-
-I tested this keyboard layout with typing tests on keyhero.com, 10fastfingers.com, and free-online-writing.com. I used the keyboard layout to write passages in Spanish, French, German, Norwegian, Icelandic, Hungarian, Polish, Slovak, Czech, Latvian, Lithuanian, Romanian, Turkish, and many others. Esperanto is also fully supported. Basically for all of the Latin-based scripts available on those typing test sites, I tested them several times each. I was able to get about 30–40 WPM for pretty much every language I tested, which may seem pretty slow, but you could probably do it much faster with practice. 
+My layout uses more dead keys, but most letters can be typed in only 3 keystrokes. For example, to type ř, you use AltGr + 5, and then hit the r key. I tested this keyboard layout with typing tests on keyhero.com, 10fastfingers.com, and free-online-writing.com. I used the keyboard layout to type passages in Spanish, French, German, Norwegian, Icelandic, Hungarian, Polish, Slovak, Czech, Latvian, Lithuanian, Romanian, Turkish, and many others. Esperanto is also fully supported. Basically for all of the Latin-based scripts available on those typing test sites, I tested them several times each. I was able to get about 30–40 WPM for pretty much every language I tested, which may seem pretty slow, but you could probably do it much faster with practice. 
 
 # Layout
 
@@ -50,7 +49,7 @@ I tested this keyboard layout with typing tests on keyhero.com, 10fastfingers.co
 
 <img src="screenshots/layout/mnemonic.png" width="800">
 
-This keyboard layout uses a system of ten keys to type accented characters. The number keys are used becase they stay the same on most keyboard layouts. The key to the left of 1 is also used, which is sometimes a 0, but usually something else, depending on the region. In order to understand which accents correspond to which number, you have to look at the shape of that number. Here's how to visualize the dead-key system:
+This keyboard layout uses a system of ten keys to type accented characters. The number keys are used becase they are in the same place on most keyboard layouts. The key to the left of 1 is also used, which is sometimes a 0, but usually something else, depending on the region. In order to understand which accents correspond to which number, you have to look at the shape of that number. Here's how to visualize the dead-key system:
 
 * AltGr + [key left of 1] → Grave. No visual mnemonic. Just remember it's next to the 1 key, which is used for acute. Examples: è, ì, à
 * AltGr + 1 → Acute. Top of the number 1 looks like an acute accent. Examples: ó, í, ú, also ł
@@ -62,7 +61,7 @@ This keyboard layout uses a system of ten keys to type accented characters. The 
 * AltGr + 7 → Macron. The line on the top of the 7 represents a macron. Examples: ō, ī, ā, also ħ, ŧ
 * AltGr + 8 → Dot and ring above. The top loop of the 8 represents a dot or ring (both are combined into the same key). Examples: ż, ė, ů
 * AltGr + 9 → Cedilla. The number 9 looks like a cedilla. Examples: ş, ç, ķ, ņ¹
-* AltGr + Shift + 1 → Diaeresis (umlaut). Follows the same convention as the US international layout². Examples: ä, ü, ë
+* AltGr + Shift + 1 → Diaeresis (umlaut). Follows the same convention as the US international layout by being paired with the acute key². Examples: ä, ü, ë
 * AltGr + Shift + 9 → Comma below for Romanian. The number 9 also visually looks like a comma. Examples: ș, ț, also ŋ
 
 Notes:
@@ -95,13 +94,14 @@ Some things are the same as on EurKEY, but there are many small differences. I d
 * The º and ª for Spanish ordinals are typed using AltGr + Shift + 2 and AltGr + Shift + 3, instead of AltGr + 2 and AltGr + 3
 * Moved the German lower-99 quotation mark „ symbol to AltGr + 0 instead of AltGr + 8 because of the new dead key on AltGr + 8. The left and right double-quote keys are also in different positions
 * Rearranged some of the math symbols, and added many new math symbols
-* And many others changes
+* And many other changes
 
 # Limitations of EurKEY Ultra
 
-* Although I tried to include and test every European language I could find that uses a Latin script, I probably missed some characters somewhere. I can't guarantee support for every minority language, but most of the official EU languages should be covered
-* No Vietnamese support, as Vietnamese uses a more complex system of stacked diacritics. It's possible to implement it, like the US English Latin accents chained dead-key example on KbdEdit's website, but I didn't want to go that route for this layout
-* Not suitable for Greek. EurKEY Ultra includes the same basic Greek alphabet from EurKEY, but no tonos. The Greek layer is mostly useful for math symbols and superscript and subscript numbers
-* The keyboard layout is designed with US QWERTY layout in mind. All of the accents are typed using the number keys, which are the same on most keyboards, but if you're not using a US QWERTY layout, keep in mind that other letters and symbols won't visually make sense to what's printed on your keycaps
+* Some people just won't like using dead keys to type accents
+* The keyboard layout is designed with US QWERTY layout in mind. If you're not using a US QWERTY keyboard, this layout will still work fine, but keep in mind that some letters and symbols won't visually make sense to what's printed on your keycaps. All of the accents are typed using the number keys, which are the same on most keyboards
+* Although I tried to include and test every European language I could find that uses a Latin script, I probably missed some characters somewhere. I can't guarantee support for every minority language, but most European languages should be covered, as well as all official EU languages except Bulgarian and Greek
+* EurKEY Ultra only includes the same basic Greek alphabet from EurKEY, but no tonos. The Greek layer is mostly useful for math symbols and superscript and subscript numbers
+* Only meant for European languages. Vietnamese won't work, for example, because it uses a system of stacked diacritics that's harder to implement. It's technically possible, like the US English Latin accents chained dead keys example on KbdEdit's website, but that would be a bit outside the scope of this layout
 
 A .kbe file is included that you can use to import the layout into KbdEdit if you want to make your own customizations. I used KbeEdit Premium to make this layout. A standalone installation exe is included if you just want to install and use the layout.
