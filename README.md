@@ -1,6 +1,6 @@
 # EurKEY Ultra—Multilingual European and Symbolic Keyboard Layout
 
-EurKEY Ultra is a keyboard layout based off of EurKEY 1.3 beta by Steffen Brüntjen. At first, I was just looking for a keyboard to type German characters ä, ü, ö, and ß without having to use the Windows emoji picker menu. I tried the US international keyboard layout built into Windows and hated it because of the way it handles the quote and grave keys. Then I found EurKEY, which is a lot better because it doesn't get in your way and also has access to more symbols than the standard US international keyboard. EurKEY is a great layout, but I felt like there were some mistakes and missed opportunities in it. This got me interested in the idea of multilingual typing and led me to a quest to find the ultimate European keyboard. There's also Eumak, but that's only available for Linux. I saw there wasn't another keyboard out there that could type most European languages that use Latin-based characters, so I decided to try making one using KbdEdit. I used the MSKLC file for EurKEY 1.3 beta available on the EurKEY Keyboard Layouts - Clone Project on GitHub as a base. 
+EurKEY Ultra is a keyboard layout based off of EurKEY 1.3 beta by Steffen Brüntjen. At first, I was just looking for a keyboard to type German characters ä, ü, ö, and ß without having to use the Windows emoji picker menu. I tried the US international keyboard layout built into Windows and hated it because of the way it handles the quote and grave keys. Then I found EurKEY, which is a lot better because it doesn't get in your way and also has access to more symbols than the standard US international keyboard. EurKEY is a great layout, but I felt like there were some mistakes and missed opportunities in it. This got me interested in the idea of multilingual typing and led me to a quest to find the ultimate European keyboard. There's also Eumak, but that's only available for Linux. I saw there wasn't another keyboard out there that could type most European languages that use Latin-based characters, so I decided to try making one. I used the MSKLC file for EurKEY 1.3 beta available on the EurKEY Keyboard Layouts - Clone Project on GitHub as a base. I used KbdEdit Premium to make this layout.
 
 # Language Enhancements
 
@@ -14,6 +14,10 @@ EurKEY Ultra adds many characters that are missing in EurKEY. Some of these incl
 * Letters like ř and š for Czech and Slovak can also be typed using fewer keystrokes than EurKEY.
 
 My layout uses more dead keys, but most letters can be typed in only 3 keystrokes. For example, to type ř, you use AltGr + 5, and then hit the r key. I tested this keyboard layout with typing tests on keyhero.com, 10fastfingers.com, and free-online-writing.com. I used the keyboard layout to type passages in Spanish, French, German, Norwegian, Icelandic, Hungarian, Polish, Slovak, Czech, Latvian, Lithuanian, Romanian, Turkish, and many others. Esperanto is also fully supported. Basically for all of the Latin-based scripts available on those typing test sites, I tested them several times each. I was able to get about 30–40 WPM for pretty much every language I tested, which may seem pretty slow, but you could probably do it much faster with practice. 
+
+# Installation
+
+A standalone installation exe is included if you just want to install and use the layout. A .kbe file is included that you can use to import the layout into KbdEdit if you want to make your own customizations.
 
 # Layout
 
@@ -103,5 +107,3 @@ Some things are the same as on EurKEY, but there are many small differences. I d
 * Although I tried to include and test every European language I could find that uses a Latin script, I probably missed some characters somewhere. I can't guarantee support for every minority language, but most European languages should be covered, as well as all official EU languages except Bulgarian and Greek
 * EurKEY Ultra only includes the same basic Greek alphabet from EurKEY, but no tonos. The Greek layer is mostly useful for math symbols and superscript and subscript numbers
 * Only meant for European languages. Vietnamese won't work, for example, because it uses a system of stacked diacritics that's harder to implement. It's technically possible, like the US English Latin accents chained dead keys example on KbdEdit's website, but that would be a bit outside the scope of this layout
-
-A .kbe file is included that you can use to import the layout into KbdEdit if you want to make your own customizations. I used KbdEdit Premium to make this layout. A standalone installation exe is included if you just want to install and use the layout.
