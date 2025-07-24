@@ -104,4 +104,4 @@ Some things are the same as on EurKEY, but there are many small differences. I d
 * EurKEY Ultra only includes the same basic Greek alphabet from EurKEY, but no tonos. The Greek layer is mostly useful for math symbols and superscript and subscript numbers
 * Only meant for European languages. Vietnamese won't work, for example, because it uses a system of stacked diacritics that's harder to implement. It's technically possible, like the US English Latin accents chained dead keys example on KbdEdit's website, but that would be a bit outside the scope of this layout
 
-A .kbe file is included that you can use to import the layout into KbdEdit if you want to make your own customizations. I used KbeEdit Premium to make this layout. A standalone installation exe is included if you just want to install and use the layout.
+A .kbe file is included that you can use to import the layout into KbdEdit if you want to make your own customizations. I used KbdEdit Premium to make this layout. A standalone installation exe is included if you just want to install and use the layout.
