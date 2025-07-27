@@ -25,7 +25,7 @@ A standalone installation exe is included if you just want to install and use th
 
 <img src="screenshots/layout/altgr.png" width="800">
 
-## AlGr + Shift Layer
+## AltGr + Shift Layer
 
 <img src="screenshots/layout/altgr-shift.png" width="800">
 
