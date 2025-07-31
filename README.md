@@ -62,7 +62,7 @@ This keyboard layout uses a system of ten keys to type accented characters. The 
 * AltGr + 4 → Circumflex. The top of the number 4 looks like a circumflex. Examples: ô, â, î
 * AltGr + 5 → Caron and breve. The bottom curve of the number 5 looks like a caron or breve (both are combined into the same key). Examples: š, ž, ř (caron) and ă, ŭ, ğ (breve)
 * AltGr + 6 → Ogonek. The number 6 looks like an ogonek. Examples: ę, ą, ų
-* AltGr + 7 → Macron. The line on the top of the 7 represents a macron. Examples: ō, ī, ā, also ħ, ŧ, ʒ
+* AltGr + 7 → Macron. The line on the top of the 7 represents a macron. Examples: ō, ī, ā, also ħ, ŧ
 * AltGr + 8 → Dot and ring above. The top loop of the 8 represents a dot or ring (both are combined into the same key). Examples: ż, ė, ů
 * AltGr + 9 → Cedilla. The number 9 looks like a cedilla. Examples: ş, ç, ķ, ņ¹
 * AltGr + Shift + 1 → Diaeresis (umlaut). Follows the same convention as the US international layout by being paired with the acute key². Examples: ä, ü, ë
