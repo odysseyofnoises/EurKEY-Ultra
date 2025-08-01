@@ -21,31 +21,37 @@ A standalone installation exe is included if you just want to install and use th
 
 # Layout
 
-## AltGr Layer
+## Language Characters
+
+### AltGr Layer
 
 <img src="screenshots/layout/altgr.png" width="800">
 
-## AltGr + Shift Layer
+### AltGr + Shift Layer
 
 <img src="screenshots/layout/altgr-shift.png" width="800">
 
-## Greek Symbols Layer (for Math)
+## Greek Symbols for Math—AltGr + m
 
 <img src="screenshots/layout/greek.png" width="800">
 
-## Math Layer 1 (Unshifted)
+## Math Symbols—AltGr + Shift + m
+
+### Without Shift Key
 
 <img src="screenshots/layout/math.png" width="800">
 
-## Math Layer 2 (Shifted)
+### With Shift Key
 
 <img src="screenshots/layout/math-shift.png" width="800">
 
-## Misc. Symbols Layer 1 (Unshifted)
+## Misc. Symbols
+
+### Without Shift Key
 
 <img src="screenshots/layout/misc-symbols.png" width="800">
 
-## Misc. Symbols Layer 2 (Shifted)
+### With Shift Key
 
 <img src="screenshots/layout/misc-symbols-shift.png" width="800">
 
@@ -76,7 +82,7 @@ Notes:
 
 # The Location of the Misc. Symbols Key
 
-Due to differences between ISO and ANSI layouts, the location of the "Misc. Symbols" dead key will be different. Here's a visual representation of where the key is on different boards:
+Due to differences between ISO and ANSI layouts, the location of the "Misc. Symbols" dead key will be different on different keyboards. Press AltGr with the highlighted key to get to these symbols. Here's a visual representation of where the key is on different boards:
 
 ## ANSI
 <img src="screenshots/layout/misc-key-ansi.png" width="500">
