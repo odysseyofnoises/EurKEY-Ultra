@@ -72,7 +72,7 @@ Notes:
 
 ¹Some letters, like ķ and ņ, actually have commas below, but Unicode mislabels them as having cedillas. They are still included in the cedilla category to follow this naming convention.
 
-²There are quicker shortcut keys to access common umlauted letters, such as AltGr + a for ä or AltGr + u for ü (on a QWERTY layout).
+²There are quicker shortcut keys to access common double-dot letters, such as AltGr + a for ä or AltGr + u for ü (on a QWERTY layout).
 
 # The Location of the Misc. Symbols Key
 
