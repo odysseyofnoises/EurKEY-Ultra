@@ -97,7 +97,7 @@ Due to differences between ISO and ANSI layouts, the location of the "Misc. Symb
 
 Some things are the same as on EurKEY, but there are many small differences. I didn't keep track of every change I made, but here are some of them:
 
-* Restored the functionality of ð (eth) to AltGr + d for Icelandic support. The đ key can still be typed using the macron dead key
+* Restored the functionality of ð (eth) to AltGr + d for Icelandic support. The letter đ can still be typed using the macron dead key
 * Moved æ back to AltGr + z to match the US international keyboard layout
 * Made AltGr + Shift + E the Euro sign, and AltGr + Shift + Y the Yen sign
 * Added a Bitcoin ₿ and generic currency sign ¤ to the misc. symbols layer
