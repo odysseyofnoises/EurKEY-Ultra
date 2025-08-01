@@ -31,11 +31,11 @@ A standalone installation exe is included if you just want to install and use th
 
 <img src="screenshots/layout/altgr-shift.png" width="800">
 
-## Greek Symbols for Math Layer—AltGr + m
+## Greek Symbols for Math—AltGr + m
 
 <img src="screenshots/layout/greek.png" width="800">
 
-## Math Symbols Layers—AltGr + Shift + m
+## Math Symbols—AltGr + Shift + m
 
 ### Without Shift Key
 
@@ -45,7 +45,7 @@ A standalone installation exe is included if you just want to install and use th
 
 <img src="screenshots/layout/math-shift.png" width="800">
 
-## Misc. Symbols Layers
+## Misc. Symbols
 
 ### Without Shift Key
 
