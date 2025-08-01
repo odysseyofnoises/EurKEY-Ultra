@@ -31,7 +31,7 @@ A standalone installation exe is included if you just want to install and use th
 
 <img src="screenshots/layout/altgr-shift.png" width="800">
 
-## Greek Symbols for Math—AltGr + M
+## Greek Symbols for Math—AltGr + m
 
 <img src="screenshots/layout/greek.png" width="800">
 
