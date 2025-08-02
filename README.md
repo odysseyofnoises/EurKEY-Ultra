@@ -104,6 +104,7 @@ Some things are the same as on EurKEY, but there are many small differences. I d
 * The º and ª for Spanish ordinals are typed using AltGr + Shift + 2 and AltGr + Shift + 3, instead of AltGr + 2 and AltGr + 3
 * Moved the German lower-99 quotation mark „ symbol to AltGr + 0 instead of AltGr + 8 because of the new dead key on AltGr + 8. The left and right double-quote keys are also in different positions
 * Rearranged some of the math symbols, and added many new math symbols
+* Added variants of several Greek symbols ϵ, ϱ, ϖ, ϕ, and ϑ which are sometimes used in math. To type them, hold the AltGr key while typing the base Greek symbol. For example, AltGr + m + e → ϵ (or AltGr + m, AltGr + e)  
 * And many other changes
 
 # Limitations of EurKEY Ultra
