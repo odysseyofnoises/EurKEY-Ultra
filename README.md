@@ -112,8 +112,6 @@ Some things are the same as on EurKEY, but there are many differences. I didn't 
 * Added variants of several Greek symbols ϵ, ϱ, ϖ, ϕ, and ϑ which are sometimes used in math. To type them, hold the AltGr key while typing the base Greek symbol in the math layer. For example, AltGr + m + e → ϵ (or AltGr + m, AltGr + e)
 * And many other changes
 
-I may periodically add symbols or make or make other small changes to the layout. I don't post a new separate version every time anything small has been changed. If I make a major change, then I might post it as a separate "old" version. 
-
 # Limitations of EurKEY Ultra
 
 * Windows only. There's a .keylayout file for Mac, but I can't guarantee it works because I don't have a Mac to test anything. To make the layout work on macOS, a version will probably have to be remade with a tool like Ukelele. In theory, it should be possible to recreate the EurKEY Ultra layout on Mac, which I'll probably do if I switch to Mac someday. 
