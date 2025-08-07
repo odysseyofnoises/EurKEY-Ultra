@@ -14,7 +14,7 @@ EurKEY Ultra adds many characters that are missing in EurKEY. Some of these incl
 * Easier access to letters with ogonek, like ą and ę, for Polish and Lithuanian
 * Letters like ř and š for Czech and Slovak can also be typed using fewer keystrokes than EurKEY.
 
-This version of the layout adds more dead keys, but most letters can be typed in only 3 keystrokes. For example, to type ř, you use AltGr + 5, and then hit the r key. I tested this keyboard layout with typing tests on several websites, like keyhero.com, 10fastfingers.com, free-online-writing.com, and quicktypingtest.com. I tried typing words and passages in Spanish, French, German, Norwegian, Icelandic, Hungarian, Polish, Slovak, Czech, Latvian, Lithuanian, Romanian, Turkish, Greek, and many others. Esperanto is also fully supported. For basically all the Latin-based scripts available on those typing test sites, I tested them several times each. I was able to get about 30–40 WPM for pretty much every language I tested (except Greek, because I'm not as familiar with the layout). You could probably do it much faster with practice. 
+This version of the layout adds more dead keys, but most letters can be typed in only 3 keystrokes. For example, to type ř, you use AltGr + 5, and then hit the r key. I tested this keyboard layout with typing tests on several websites, like keyhero.com, 10fastfingers.com, free-online-writing.com, and quicktypingtest.com. I tried typing words and passages in Spanish, French, German, Norwegian, Icelandic, Hungarian, Polish, Slovak, Czech, Latvian, Lithuanian, Romanian, Turkish, Greek, and many others. Esperanto is also fully supported. For basically all the Latin-based scripts available on those typing test sites, I tested them several times each. I was able to get about 30–40 WPM for pretty much every language I tested (except Greek, because I'm not as familiar with the layout). You could probably do it much faster with practice.
 
 # Installation
 
@@ -96,12 +96,13 @@ Due to differences between ISO and ANSI layouts, the location of the "Misc. Symb
 
 # Changes between EurKEY and EurKEY Ultra
 
-Some things are the same as on EurKEY, but there are many small differences. I didn't keep track of every change I made, but here are some of them:
+Some things are the same as on EurKEY, but there are many differences. I didn't keep track of every change I made, but here are some of them:
 
+* More dead keys, different dead key positions
 * Restored the functionality of ð (eth) to AltGr + d for Icelandic support. The letter đ can still be typed using the macron dead key
 * Moved æ back to AltGr + z to match the US international keyboard layout
 * Made AltGr + Shift + E the Euro sign, and AltGr + Shift + Y the Yen sign
-* Added many symbols, like Bitcoin ₿, generic currency sign ¤, and † ‡ (dagger and double dagger) to the misc. symbols layer
+* Added many symbols to the misc. symbols layer, like Bitcoin ₿, generic currency sign ¤, dagger †, and double dagger ‡, as well as icons like ⛈ ⛔ ❄ ☯ ⚡(some of these might render as emojis, depending on the font/app)
 * The º and ª for Spanish ordinals are typed using AltGr + Shift + 2 and AltGr + Shift + 3, instead of AltGr + 2 and AltGr + 3
 * Moved the German lower-99 quotation mark „ symbol to AltGr + 0 instead of AltGr + 8 because of the new dead key on AltGr + 8. The left and right double-quote keys are also in different positions
 * Rearranged a few Greek symbols and added final sigma ς to follow the standard Greek layout
@@ -111,9 +112,11 @@ Some things are the same as on EurKEY, but there are many small differences. I d
 * Added variants of several Greek symbols ϵ, ϱ, ϖ, ϕ, and ϑ which are sometimes used in math. To type them, hold the AltGr key while typing the base Greek symbol in the math layer. For example, AltGr + m + e → ϵ (or AltGr + m, AltGr + e)
 * And many other changes
 
+I may periodically add symbols or make or make other small changes to the layout. I don't post a new separate version every time anything small has been changed. If I make a major change, then I might post it as a separate "old" version. 
+
 # Limitations of EurKEY Ultra
 
-* Windows only. There's a .keylayout file for Mac, but I can't guarantee anything in it works. I don't have a Mac to test anything. I'm not sure if this layout even could be made to work completely on Mac, because the way dead keys work on macOS is a bit more limited than on Windows. To make the layout work on macOS, a version will probably have to be remade with a tool like Ukelele. If I switch to Mac someday, I will make one. 
+* Windows only. There's a .keylayout file for Mac, but I can't guarantee it works because I don't have a Mac to test anything. To make the layout work on macOS, a version will probably have to be remade with a tool like Ukelele. In theory, it should be possible to recreate the EurKEY Ultra layout on Mac, which I'll probably do if I switch to Mac someday. 
 * This keyboard layout won't fit everyone's preferences. Some people won't like the placement of the keys, or some people won't like using dead keys to type accents, for example. A keyboard is a tool, so you should use whatever system works best for you
 * The keyboard layout is designed with US QWERTY layout in mind. If you're not using a US QWERTY keyboard, this layout will still work, but note that some letters and symbols won't visually make sense to what's printed on your keycaps. All of the accents are typed using the number keys, at least, which are the same on most keyboards
 * Although I tried to include and test every European language I could find that uses a Latin script, I probably missed some characters somewhere. I can't guarantee support for every minority language, but most European languages should be covered, as well as all official EU languages except Bulgarian. Languages that use cyrillic characters won't work in general on this layout
