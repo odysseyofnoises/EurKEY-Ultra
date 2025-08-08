@@ -109,7 +109,7 @@ Some things are the same as on EurKEY, but there are many differences. I didn't 
 * Rearranged some of the math symbols, and added many new math symbols. The math layer is also now on AltGr + m instead of AltGr + Shift + M (one key less)
 * Subscript and superscript numbers were moved to the misc. symbols layer
 * Fractions are typed by holding down AltGr in the misc. symbols layer. For example, AltGr + \ + 2 → ½ (or AltGr + \\, AltGr + 2)
-* Added ℏ, which is used in physics, as well as variants of several Greek symbols ϵ, ϱ, ϖ, ϕ, and ϑ which are sometimes used in math. To type them, hold the AltGr key while typing the base Greek symbol in the math layer. For example, AltGr + m + e → ϵ (or AltGr + m, AltGr + e)
+* Added variants of several Greek symbols ϵ, ϱ, ϖ, ϕ, and ϑ which are sometimes used in math. To type them, hold the AltGr key while typing the base Greek symbol in the math layer. For example, AltGr + m + e → ϵ (or AltGr + m, AltGr + e)
 * And many other changes
 
 # Limitations of EurKEY Ultra
