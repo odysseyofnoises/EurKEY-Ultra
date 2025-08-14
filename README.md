@@ -83,7 +83,8 @@ Some symbols aren't shown in the screenshots. These include things like variants
 * AltGr + m + \` → ≃ (or AltGr + m, AltGr + `)
 * AltGr + m + Shift + ~ → ≅ (or AltGr + m, AltGr + Shift + ~)
 * AltGr + m + - → ∓ (or AltGr + m, AltGr + -)
-* AltGr + m + \ → ∤ (or AltGr + m, AltGr + \\)
+* AltGr + m + \ → ⊖ (or AltGr + m, AltGr + \\)
+* AltGr + m + / → ∤ (or AltGr + m, AltGr + /)
 * AltGr + m + Shift + < → ≲ (or AltGr + m, AltGr + Shift + <)
 * AltGr + m + Shift + > → ≳ (or AltGr + m, AltGr + Shift + >)
 
