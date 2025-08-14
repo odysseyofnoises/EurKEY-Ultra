@@ -56,6 +56,31 @@ On Windows, a standalone installation exe is included if you just want to instal
 
 <img src="screenshots/layout/misc-symbols-shift.png" width="800">
 
+## Other Symbols
+
+Some symbols aren't shown in the screenshots. These include variants of several Greek letters that are sometimes used in math, ℵ for set theory, and ℏ and angle brackets for quantum physics. Type them by holding the AltGr key while typing other symbols:
+
+### Math Symbols
+
+* AltGr + m + e → ϵ (or AltGr + m, AltGr + e)
+* AltGr + m + r → ϱ (or AltGr + m, AltGr + r)
+* AltGr + m + u → ϑ (or AltGr + m, AltGr + u)
+* AltGr + m + p → ϖ (or AltGr + m, AltGr + p)
+* AltGr + m + f → ϕ (or AltGr + m, AltGr + f)
+* AltGr + m + a → ℵ (or AltGr + m, AltGr + a)
+* AltGr + m + h → ℏ (or AltGr + m, AltGr + h)
+* AltGr + m + , → 〈 (or AltGr + m, AltGr + ,)
+* AltGr + m + . → 〉 (or AltGr + m, AltGr + .)
+
+### Misc. Symbols
+
+* AltGr + \ + 1 → № (or AltGr + m, AltGr + 1)
+* AltGr + \ + 2 → ½ (or AltGr + m, AltGr + 2)
+* AltGr + \ + 3 → ⅓ (or AltGr + m, AltGr + 3)
+* AltGr + \ + 4 → ¼ (or AltGr + m, AltGr + 4)
+* AltGr + \ + 5 → ⅔ (or AltGr + m, AltGr + 5)
+* AltGr + \ + 6 → ¾ (or AltGr + m, AltGr + 6)
+
 # Visual Mnemonic for Accents
 
 <img src="screenshots/layout/mnemonic.png" width="800">
@@ -109,7 +134,6 @@ Some things are the same as on EurKEY, but there are many differences. I didn't 
 * Rearranged some of the math symbols, and added many new math symbols. The math layer is also now on AltGr + m instead of AltGr + Shift + M (one key less)
 * Subscript and superscript numbers were moved to the misc. symbols layer
 * Fractions are typed by holding down AltGr in the misc. symbols layer. For example, AltGr + \ + 2 → ½ (or AltGr + \\, AltGr + 2)
-* Added ℵ for set theory, as well as variants of several Greek symbols ϵ, ϱ, ϖ, ϕ, and ϑ which are sometimes used in math. To type them, hold the AltGr key while typing the base Greek symbol in the math layer. For example, AltGr + m + e → ϵ (or AltGr + m, AltGr + e)
 * And many other changes
 
 # Limitations of EurKEY Ultra
