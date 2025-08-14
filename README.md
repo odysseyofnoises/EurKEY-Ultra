@@ -69,17 +69,27 @@ Some symbols aren't shown in the screenshots. These include variants of several 
 * AltGr + m + f → ϕ (or AltGr + m, AltGr + f)
 * AltGr + m + a → ℵ (or AltGr + m, AltGr + a)
 * AltGr + m + h → ℏ (or AltGr + m, AltGr + h)
+* AltGr + m + n → ₙ (or AltGr + m, AltGr + n)
 * AltGr + m + , → 〈 (or AltGr + m, AltGr + ,)
 * AltGr + m + . → 〉 (or AltGr + m, AltGr + .)
+* AltGr + m + 7 → ∢ (or AltGr + m, AltGr + 7)
+* AltGr + m + 9 → ⌈ (or AltGr + m, AltGr + 9)
+* AltGr + m + 0 → ⌉ (or AltGr + m, AltGr + 0)
+* AltGr + m + [ → ⌊ (or AltGr + m, AltGr + [)
+* AltGr + m + ] → ⌋ (or AltGr + m, AltGr + ])
+* AltGr + m + ` → ≅ (or AltGr + m, AltGr + ``)
+* AltGr + m + - → ∓ (or AltGr + m, AltGr + -)
+* AltGr + m + \ → ∤ (or AltGr + m, AltGr + \)
 
 ### Misc. Symbols
 
-* AltGr + \ + 1 → № (or AltGr + m, AltGr + 1)
-* AltGr + \ + 2 → ½ (or AltGr + m, AltGr + 2)
-* AltGr + \ + 3 → ⅓ (or AltGr + m, AltGr + 3)
-* AltGr + \ + 4 → ¼ (or AltGr + m, AltGr + 4)
-* AltGr + \ + 5 → ⅔ (or AltGr + m, AltGr + 5)
-* AltGr + \ + 6 → ¾ (or AltGr + m, AltGr + 6)
+* AltGr + \ + 1 → № (or AltGr + \\, AltGr + 1)
+* AltGr + \ + 2 → ½ (or AltGr + \\, AltGr + 2)
+* AltGr + \ + 3 → ⅓ (or AltGr + \\, AltGr + 3)
+* AltGr + \ + 4 → ¼ (or AltGr + \\, AltGr + 4)
+* AltGr + \ + 5 → ⅔ (or AltGr + \\, AltGr + 5)
+* AltGr + \ + 6 → ¾ (or AltGr + \\, AltGr + 6)
+* AltGr + \ + = → ⇌ (or AltGr + \\, AltGr =)
 
 # Visual Mnemonic for Accents
 
