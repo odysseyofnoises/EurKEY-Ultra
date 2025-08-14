@@ -77,7 +77,7 @@ Some symbols aren't shown in the screenshots. These include variants of several 
 * AltGr + m + 0 → ⌉ (or AltGr + m, AltGr + 0)
 * AltGr + m + [ → ⌊ (or AltGr + m, AltGr + [)
 * AltGr + m + ] → ⌋ (or AltGr + m, AltGr + ])
-* AltGr + m + ` → ≅ (or AltGr + m, AltGr + ``)
+* AltGr + m + \` → ≅ (or AltGr + m, AltGr + `)
 * AltGr + m + - → ∓ (or AltGr + m, AltGr + -)
 * AltGr + m + \ → ∤ (or AltGr + m, AltGr + \)
 
