@@ -58,7 +58,7 @@ On Windows, a standalone installation exe is included if you just want to instal
 
 ## Other Symbols
 
-Some symbols aren't shown in the screenshots. These include variants of several Greek letters that are sometimes used in math, ℵ for set theory, and ℏ and angle brackets for quantum physics. Type them by holding the AltGr key while typing other symbols:
+Some symbols aren't shown in the screenshots. These include things like variants of several Greek letters that are sometimes used in math, ℵ for set theory, ℏ and angle brackets for quantum physics, and many other symbols. Type them using these key sequences:
 
 ### Math Symbols
 
