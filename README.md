@@ -70,16 +70,22 @@ Some symbols aren't shown in the screenshots. These include variants of several 
 * AltGr + m + a → ℵ (or AltGr + m, AltGr + a)
 * AltGr + m + h → ℏ (or AltGr + m, AltGr + h)
 * AltGr + m + n → ₙ (or AltGr + m, AltGr + n)
+* AltGr + m + t → ⊢ (or AltGr + m, AltGr + t)
+* AltGr + m + Shift + T → ⊨ (or AltGr + m, AltGr + Shift + T)
 * AltGr + m + , → 〈 (or AltGr + m, AltGr + ,)
 * AltGr + m + . → 〉 (or AltGr + m, AltGr + .)
 * AltGr + m + 7 → ∢ (or AltGr + m, AltGr + 7)
+* AltGr + m + 8 → ⊙ (or AltGr + m, AltGr + 8)
 * AltGr + m + 9 → ⌈ (or AltGr + m, AltGr + 9)
 * AltGr + m + 0 → ⌉ (or AltGr + m, AltGr + 0)
 * AltGr + m + [ → ⌊ (or AltGr + m, AltGr + [)
 * AltGr + m + ] → ⌋ (or AltGr + m, AltGr + ])
-* AltGr + m + \` → ≅ (or AltGr + m, AltGr + `)
+* AltGr + m + \` → ≃ (or AltGr + m, AltGr + `)
+* AltGr + m + Shift + ~ → ≅ (or AltGr + m, AltGr + Shift + ~)
 * AltGr + m + - → ∓ (or AltGr + m, AltGr + -)
-* AltGr + m + \ → ∤ (or AltGr + m, AltGr + \)
+* AltGr + m + \ → ∤ (or AltGr + m, AltGr + \\)
+* AltGr + m + Shift + < → ≲ (or AltGr + m, AltGr + Shift + <)
+* AltGr + m + Shift + > → ≳ (or AltGr + m, AltGr + Shift + >)
 
 ### Misc. Symbols
 
@@ -90,6 +96,7 @@ Some symbols aren't shown in the screenshots. These include variants of several 
 * AltGr + \ + 5 → ⅔ (or AltGr + \\, AltGr + 5)
 * AltGr + \ + 6 → ¾ (or AltGr + \\, AltGr + 6)
 * AltGr + \ + = → ⇌ (or AltGr + \\, AltGr =)
+* AltGr + \ + l → ↦ (or AltGr + \\, AltGr + l)
 
 # Visual Mnemonic for Accents
 
