@@ -86,7 +86,7 @@ On Windows, a standalone installation exe is included if you just want to instal
 
 <img src="screenshots/layout/misc-symbols-altgr-shift.png" width="800">
 
-# How to Use This Keyboard
+# How to Use This Keyboard Layout
 
 This keyboard layout uses **dead keys** to type symbols and accented letters. The layout is divided into different layers. If you aren't trying to type special characters, the keyboard will just work like a regular US QWERTY keyboard, except for the Caps Lock key, which switches to Greek letters. The other layers are accessed with the AltGr key. Accented letters are typed with AltGr + number keys, the math layer is on AltGr + m, and the miscellaneous symbols layer is on AltGr + \. To see which symbols you can type, and how to type them, look at the screenshots. For example, to type the ∈ symbol on the math layer, press AltGr + m together. Then let go of both keys, and press k. To type ⋈, you would press AltGr + m, then AltGr + w. If a key combination has AltGr twice in it, you could keep holding AltGr. In that case, you would press AltGr + m, then let go of m but keep holding AltGr, then press w. 
 
