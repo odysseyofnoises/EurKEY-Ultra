@@ -46,6 +46,14 @@ On Windows, a standalone installation exe is included if you just want to instal
 
 <img src="screenshots/layout/math-shift.png" width="800">
 
+### With AltGr Key
+
+<img src="screenshots/layout/math-altgr.png" width="800">
+
+### With AltGr + Shift Keys
+
+<img src="screenshots/layout/math-altgr-shift.png" width="800">
+
 ## Misc. Symbols—AltGr + \
 
 ### Without Shift Key
@@ -56,77 +64,13 @@ On Windows, a standalone installation exe is included if you just want to instal
 
 <img src="screenshots/layout/misc-symbols-shift.png" width="800">
 
-## Other Symbols
+### With AltGr Key
 
-Some symbols aren't shown in the screenshots. These include things like variants of several Greek letters that are sometimes used in math, ℵ for set theory, ℏ and angle brackets for quantum physics, and many other symbols. Type them using these key sequences:
+<img src="screenshots/layout/misc-symbols-altgr.png" width="800">
 
-### Math Symbols
+### With AltGr + Shift Keys
 
-* AltGr + m + e → ϵ (or AltGr + m, AltGr + e)
-* AltGr + m + r → ϱ (or AltGr + m, AltGr + r)
-* AltGr + m + u → ϑ (or AltGr + m, AltGr + u)
-* AltGr + m + p → ϖ (or AltGr + m, AltGr + p)
-* AltGr + m + f → ϕ (or AltGr + m, AltGr + f)
-* AltGr + m + l → ℓ (or AltGr + m, AltGr + l)
-* AltGr + m + a → ℵ (or AltGr + m, AltGr + a)
-* AltGr + m + h → ℏ (or AltGr + m, AltGr + h)
-* AltGr + m + n → ₙ (or AltGr + m, AltGr + n)
-* AltGr + m + t → ⊢ (or AltGr + m, AltGr + t)
-* AltGr + m + , → 〈 (or AltGr + m, AltGr + ,)
-* AltGr + m + . → 〉 (or AltGr + m, AltGr + .)
-* AltGr + m + 6 → ∐ (or AltGr + m, AltGr + 6)
-* AltGr + m + 7 → ∢ (or AltGr + m, AltGr + 7)
-* AltGr + m + 8 → ⊙ (or AltGr + m, AltGr + 8)
-* AltGr + m + 9 → ⌈ (or AltGr + m, AltGr + 9)
-* AltGr + m + 0 → ⌉ (or AltGr + m, AltGr + 0)
-* AltGr + m + [ → ⌊ (or AltGr + m, AltGr + [)
-* AltGr + m + ] → ⌋ (or AltGr + m, AltGr + ])
-* AltGr + m + s → ⊑ (or AltGr + m, AltGr + s)
-* AltGr + m + d → ⊏ (or AltGr + m, AltGr + d)
-* AltGr + m + x → ⊓ (or AltGr + m, AltGr + x)
-* AltGr + m + g → ⊊ (or AltGr + m, AltGr + g)
-* AltGr + m + b → ⊈ (or AltGr + m, AltGr + b)
-* AltGr + m + \` → ≃ (or AltGr + m, AltGr + `)
-* AltGr + m + - → ∓ (or AltGr + m, AltGr + -)
-* AltGr + m + = → ⊎ (or AltGr + m, AltGr + =)
-* AltGr + m + \ → ⊖ (or AltGr + m, AltGr + \\)
-* AltGr + m + / → ∤ (or AltGr + m, AltGr + /)
-* AltGr + m + i → ⊷ (or AltGr + m, AltGr + i)
-* AltGr + m + o → ⊶ (or AltGr + m, AltGr + o)
-* AltGr + m + m → ⊸ (or AltGr + m, AltGr + m)
-* AltGr + m + w → ⋈ (or AltGr + m, AltGr + w)
-* AltGr + m + v → ⊻ (or AltGr + m, AltGr + v)
-* AltGr + m + y → ⊼ (or AltGr + m, AltGr + y)
-* AltGr + m + Shift + T → ⊨ (or AltGr + m, AltGr + Shift + T)
-* AltGr + m + Shift + ~ → ≅ (or AltGr + m, AltGr + Shift + ~)
-* AltGr + m + Shift + < → ≲ (or AltGr + m, AltGr + Shift + <)
-* AltGr + m + Shift + > → ≳ (or AltGr + m, AltGr + Shift + >)
-* AltGr + m + Shift + ( → ⊲ (or AltGr + m, AltGr + Shift + ()
-* AltGr + m + Shift + ) → ⊳ (or AltGr + m, AltGr + Shift + ))
-* AltGr + m + Shift + { → ⊴ (or AltGr + m, AltGr + Shift + {)
-* AltGr + m + Shift + } → ⊵ (or AltGr + m, AltGr + Shift + })
-* AltGr + m + Shift + V → ⊽ (or AltGr + m, AltGr + Shift + V)
-* AltGr + m + Shift + S → ⊒ (or AltGr + m, AltGr + Shift + S)
-* AltGr + m + Shift + D → ⊐ (or AltGr + m, AltGr + Shift + D)
-* AltGr + m + Shift + X → ⊔ (or AltGr + m, AltGr + Shift + X)
-* AltGr + m + Shift + G → ⊋ (or AltGr + m, AltGr + Shift + G)
-* AltGr + m + Shift + B → ⊉ (or AltGr + m, AltGr + Shift + B)
-* AltGr + m + Shift + A → ℶ (or AltGr + m, AltGr + Shift + A)
-* AltGr + m + Shift + ? → ⋄ (or AltGr + m, AltGr + Shift + ?)
-
-### Misc. Symbols
-
-* AltGr + \ + 1 → № (or AltGr + \\, AltGr + 1)
-* AltGr + \ + 2 → ½ (or AltGr + \\, AltGr + 2)
-* AltGr + \ + 3 → ⅓ (or AltGr + \\, AltGr + 3)
-* AltGr + \ + 4 → ¼ (or AltGr + \\, AltGr + 4)
-* AltGr + \ + 5 → ⅔ (or AltGr + \\, AltGr + 5)
-* AltGr + \ + 6 → ¾ (or AltGr + \\, AltGr + 6)
-* AltGr + \ + = → ⇌ (or AltGr + \\, AltGr =)
-* AltGr + \ + l → ↦ (or AltGr + \\, AltGr + l)
-* AltGr + \ + n → ↩ (or AltGr + \\, AltGr + n)
-* AltGr + \ + m → ↪ (or AltGr + \\, AltGr + m)
-* AltGr + \ + Shift + L → ↠ (or AltGr + \\, AltGr + l)
+<img src="screenshots/layout/misc-symbols-altgr-shift.png" width="800">
 
 # Visual Mnemonic for Accents
 
