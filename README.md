@@ -92,7 +92,7 @@ This keyboard layout uses **dead keys** to type symbols and accented letters. Th
 
 ## Visual Mnemonic for Accents
 
-<img src="screenshots/layout/mnemonic.png" width="800">
+<img src="screenshots/layout/mnemonic.png" width="500">
 
 Many western European languages can be typed without using any dead keys, except for circumflex letters like â ô for French. You can just use `AltGr` + QWERTY letters, such as `AltGr` + `A` → ä, `AltGr` + `G` → é. For other languages, this keyboard layout uses a system of ten keys to type accented characters. The number keys are used becase they are in the same place on most keyboard layouts. The key to the left of `1` is also used, which is sometimes a `0`, but usually something else, depending on the region. In order to understand which accents correspond to which number, you have to look at the shape of that number. Here's how to visualize the dead-key system:
 
