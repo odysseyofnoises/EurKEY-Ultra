@@ -13,7 +13,7 @@ EurKEY Ultra adds many characters that are missing in EurKEY. Some of these incl
 * Turkish dotless ı and capital dotted İ
 * Easier access to letters with ogonek, like ą and ę, for Polish and Lithuanian
 * Letters like ř and š for Czech and Slovak can be typed using fewer keystrokes than EurKEY
-* Type over 300 symbols, including over 150 math symbols like ∃ ℤ ∇ ∀, over 60 arrows like ⇗⟼⇚↫, and over 150 other symbols like ¤₿†‡ and ⛈ ⛔ ❄ ☯ ⚡ (some of these might render as emojis, depending on the font/app)
+* Type over 300 symbols, including over 150 math symbols like ∃ ℤ ∇ ∀, over 60 arrows like ⇗ ⟼ ⇚ ↫, and over 150 other symbols like ¤ ₿ † ‡ and ⛈ ⛔ ❄ ☯ ⚡ (some of these might render as emojis, depending on the font/app)
 
 I tested this keyboard layout with typing tests on several websites, like keyhero.com, 10fastfingers.com, free-online-writing.com, and quicktypingtest.com. I tried typing words and passages in Spanish, French, German, Norwegian, Icelandic, Hungarian, Polish, Slovak, Czech, Latvian, Lithuanian, Romanian, Turkish, Greek, and many others. Esperanto is also fully supported. For basically all the Latin-based scripts available on those typing test sites, I tested them several times each. I was able to get about 30–40 WPM for pretty much every language I tested (except Greek, because I'm not as familiar with the layout). You could probably do it much faster with practice. The layout also supports many math symbols that are in LaTeX and Amssymb.
 
