@@ -12,7 +12,7 @@ EurKEY Ultra adds many characters that are missing in EurKEY. Some of these incl
 * Romanian comma-below support for ț and ș
 * Turkish dotless ı and capital dotted İ
 * Easier access to letters with ogonek, like ą and ę, for Polish and Lithuanian
-* Letters like ř and š for Czech and Slovak can also be typed using fewer keystrokes than EurKEY
+* Letters like ř and š for Czech and Slovak can be typed using fewer keystrokes than EurKEY
 * Type over 300 symbols, including over 150 math symbols, and over 150 other symbols, including over 60 arrows
 * Added many symbols to the misc. symbols layer, like Bitcoin ₿, generic currency sign ¤, dagger †, and double dagger ‡, as well as icons like ⛈ ⛔ ❄ ☯ ⚡(some of these might render as emojis, depending on the font/app)
 
