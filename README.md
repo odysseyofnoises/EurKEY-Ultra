@@ -97,13 +97,13 @@ This keyboard layout uses **dead keys** to type symbols and accented letters. Th
 Many western European languages can be typed without using any dead keys, except for circumflex letters like â ô for French. You can just use `AltGr` + QWERTY letters to type letters that are commonly used in many languages, such as `AltGr` + `A` → ä, `AltGr` + `G` → é. For other languages, this keyboard layout uses a system of ten keys to type accented characters. The number keys are used becase they are in the same place on most keyboard layouts. The key to the left of `1` is also used, which is sometimes a `0`, but usually something else, depending on the region. In order to understand which accents correspond to which number, you have to look at the shape of that number. Here's how to visualize the dead-key system:
 
 * `AltGr` + [key left of 1] → Grave. No visual mnemonic. Just remember it's next to the `1` key, which is used for acute. Examples: è, ì, à
-* `AltGr` + `1` → Acute. The top of the number 1 looks like an acute accent. Examples: ó, í, ú, also ł, also έ, ά, ώ (Greek tonos)
+* `AltGr` + `1` → Acute. The top of the number 1 looks like an acute accent. Examples: ó, í, ú, also έ, ά, ώ (Greek tonos)
 * `AltGr` + `2` → Tilde. The number 2, rotated sideways, looks like a tilde symbol. Examples: ã, õ, also ΰ, ΐ (Greek combined diacritics)
 * `AltGr` + `3` → Double acute accent for Hungarian. The numeral 3 has two "hooks" that look like a double acute when the number is turned sideways. Examples: ő, ű
 * `AltGr` + `4` → Circumflex. The top of the number 4 looks like a circumflex. Examples: ô, â, î
 * `AltGr` + `5` → Caron and breve. The bottom curve of the number 5 looks like a caron or breve (both are combined into the same key). Examples: š, ž, ř (caron) and ă, ŭ, ğ (breve)
 * `AltGr` + `6` → Ogonek. The number 6 looks like an ogonek. Examples: ę, ą, ų
-* `AltGr` + `7` → Macron. The line on the top of the 7 represents a macron. Examples: ō, ī, ā, also ħ, ŧ, also ‐, –, — (hyphen, en dash, em dash)
+* `AltGr` + `7` → Macron. The line on the top of the 7 represents a macron. Examples: ō, ī, ā, also ł, ħ, ŧ, also ‐, –, — (hyphen, en dash, em dash)
 * `AltGr` + `8` → Dot and ring above. The top loop of the 8 represents a dot or ring (both are combined into the same key). Examples: ż, ė, ů
 * `AltGr` + `9` → Cedilla. The number 9 looks like a cedilla. Examples: ş, ç, ķ, ņ*, also ʒ
 * `AltGr` + `Shift` + `1` → Diaeresis (umlaut). Follows the same convention as the US international layout by being paired with the acute key. Examples: ä, ü, ë, also ϋ, ϊ (Greek dialytica)
