@@ -52,7 +52,7 @@ On Windows, a standalone installation exe is included if you just want to instal
 
 ## Math Symbols—`AltGr` + `M`
 
-### Without `Shift` Key
+### Without `Shift` or `AltGr` Key
 
 <img src="screenshots/layout/math.png" width="800">
 
@@ -70,7 +70,7 @@ On Windows, a standalone installation exe is included if you just want to instal
 
 ## Misc. Symbols—`AltGr` + `\`
 
-### Without `Shift` Key
+### Without `Shift` or `AltGr` Key
 
 <img src="screenshots/layout/misc-symbols.png" width="800">
 
