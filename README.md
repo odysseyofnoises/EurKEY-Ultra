@@ -107,7 +107,7 @@ Many letters used in western European languages can be typed without using any d
 * `AltGr` + `6` → Ogonek. The number 6 looks like an ogonek. Examples: ę, ą, ų
 * `AltGr` + `7` → Macron. The line on the top of the 7 represents a macron. Examples: ō, ī, ā, also ł, ħ, ŧ, also ‐, –, — (hyphen, en dash, em dash)
 * `AltGr` + `8` → Dot and ring above. The top loop of the 8 represents a dot or ring (both are combined into the same key). Examples: ż, ė, ů
-* `AltGr` + `9` → Cedilla. The number 9 looks like a cedilla. Examples: ş, ç, ķ, ņ*, also ʒ
+* `AltGr` + `9` → Cedilla. The number 9 looks like a cedilla. Examples: ş, ç, ķ, ņ*
 * `AltGr` + `Shift` + `1` → Diaeresis (umlaut). Follows the same convention as the US international layout by being paired with the acute key. Examples: ä, ü, ë, also ϋ, ϊ (Greek dialytica)
 * `AltGr` + `Shift` + `9` → Comma below for Romanian. The number 9 also visually looks like a comma. Examples: ș, ț, also ŋ
 
