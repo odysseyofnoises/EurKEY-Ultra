@@ -110,7 +110,7 @@ Many letters used in western European languages can be typed without using any d
 * `AltGr` + [key left of 1] → Grave. No visual mnemonic. Just remember it's next to the `1` key, which is used for acute. Examples: è, ì, à
 * `AltGr` + `1` → Acute. The top of the number 1 looks like an acute accent. Examples: ó, í, ú, also έ, ά, ώ (Greek tonos)
 * `AltGr` + `2` → Tilde. The number 2, rotated sideways, looks like a tilde symbol. Examples: ã, õ, also ΰ, ΐ (Greek combined diacritics)
-* `AltGr` + `3` → Double acute accent for Hungarian. The numeral 3 has two "hooks" that look like a double acute when the number is turned sideways. Examples: ő, ű
+* `AltGr` + `3` → Double acute. The numeral 3 has two "hooks" that look like a double acute when the number is turned sideways. Examples: ő, ű
 * `AltGr` + `4` → Circumflex. The top of the number 4 looks like a circumflex. Examples: ô, â, î
 * `AltGr` + `5` → Caron. The bottom curve of the number 5 represents a caron. Examples: š, ž, ř
 * `AltGr` + `6` → Ogonek. The number 6 looks like an ogonek. Examples: ę, ą, ų
