@@ -29,7 +29,7 @@ Some things are the same as on EurKEY, but there are many differences. I didn't 
 * Made `AltGr` + `Shift` + `E` the Euro sign, and `AltGr` + `Shift` + `C` the cent sign
 * The º and ª for Spanish ordinals are typed using `AltGr` + `Shift` + `2` and `AltGr` + `Shift` + `3`, instead of `AltGr` + `2` and `AltGr` + `3`
 * Moved the German lower-99 quotation mark „ symbol to `AltGr` + `0` instead of `AltGr` + `8` because of the new dead key on `AltGr` + `8`. The left and right double-quote keys are also in different positions
-* Made `AltGr` + `Shift` + `,` the combination for modifier letter prime for transcription of Cyrillic transliteration (ISO 9) and Skolt Sámi
+* Made `AltGr` + `Shift` + `,` the combination for modifier letter prime for Cyrillic transliteration (ISO 9), as well as Skolt Sámi
 * Rearranged a few Greek symbols and added final sigma ς to follow the standard Greek layout
 * Rearranged some of the math symbols that were already in EurKEY. The math layer is also now on `AltGr` + `M` instead of `AltGr` + `Shift` + `M` (one key less)
 * Subscript and superscript numbers were moved to the misc. symbols layer
