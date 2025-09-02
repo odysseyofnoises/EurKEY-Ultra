@@ -114,7 +114,7 @@ Many letters used in western European languages can be typed without using any d
 * `AltGr` + `4` → Circumflex. The top of the number 4 looks like a circumflex. Examples: ô, â, î
 * `AltGr` + `5` → Caron. The bottom curve of the number 5 represents a caron. Examples: š, ž, ř
 * `AltGr` + `6` → Ogonek. The number 6 looks like an ogonek. Examples: ę, ą, ų
-* `AltGr` + `7` → Macron. The line on the top of the 7 represents a macron. Examples: ō, ī, ā, also ł, ħ, ŧ, ǥ, also ‐, –, — (hyphen, en dash, em dash)
+* `AltGr` + `7` → Macron. The line on the top of the 7 represents a macron. Examples: ō, ī, ā, also ł, đ, ħ, ŧ, ǥ
 * `AltGr` + `8` → Dot and ring above. The top loop of the 8 represents a dot or ring (both are combined into the same key). Examples: ż, ė, ů
 * `AltGr` + `9` → Comma below. The number 9 looks like a comma. Examples: ș, ț, ķ*
 * `AltGr` + `Shift` + `1` → Diaeresis (umlaut). Follows the same convention as the US international layout by being paired with the acute key. Examples: ä, ü, ë, also ϋ, ϊ (Greek dialytica)
@@ -130,6 +130,20 @@ A few letters used in Livonian have two accent marks. All of them have a macron 
 * `AltGr` + `Shift` + `1`, `AltGr` + `A` → ǟ
 * `AltGr` + `2`, `AltGr` + `O` → ȭ
 * `AltGr` + `8`, `AltGr` + `O` → ȱ
+
+There are also several dashes and spacing modifiers included as part of the macron dead key:
+
+* `AltGr` + `7`, `1` → ‐ (hyphen)
+* `AltGr` + `7`, `2` → – (en dash)
+* `AltGr` + `7`, `3` → — (em dash)
+* `AltGr` + `7`, `9` → no-break space
+* `AltGr` + `7`, `0` → narrow no-break space
+* `AltGr` + `7`, `Shift` + `9` → thin space
+* `AltGr` + `7`, `Shift` + `0` → zero-width space
+* `AltGr` + `7`, `AltGr` + `9` → hair space
+* `AltGr` + `7`, `AltGr` + `0` → word joiner
+* `AltGr` + `7`, `=` → ‒ (figure dash)
+* `AltGr` + `7`, `+` → figure space
 
 # The Location of the Misc. Symbols Key
 
