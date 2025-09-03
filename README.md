@@ -15,7 +15,7 @@ EurKEY Ultra adds many characters that are missing in EurKEY. Some of these incl
 * Turkish dotless ı and capital dotted İ
 * Easier access to letters with ogonek, like ą and ę, for Polish and Lithuanian
 * Letters like ř and š for Czech and Slovak can be typed using fewer keystrokes than EurKEY
-* Support for minority languages like Sámi, Welsh, Romani, Resian, Livonian, and many others
+* Support for minority languages like Sámi, Welsh, Romani, Sorbian, Resian, Livonian, and many others
 * Esperanto is also fully supported
 * Type over 300 symbols, including over 150 math symbols like ∃ ℤ ∇ ∀, over 60 arrows like ⇗ ⟼ ⇚ ↫, and over 150 other symbols like ¤ ₿ † ‡ and ⛈ ⛔ ❄ ☯ ⚡ (some of these might render as emojis, depending on the font/app)
 
