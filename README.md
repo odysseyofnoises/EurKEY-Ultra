@@ -149,7 +149,7 @@ There are also several dashes and spacing modifiers included as part of the macr
 The macron dead key also has two modifier letters:
 
 * `AltGr` + `8`, `'` → modifier letter apostrophe (Võro)
-* `AltGr` + `8`, `Shift` + `'` → modifier letter prime (Cyrillic transliteration [ISO 9], Skolt Sámi)
+* `AltGr` + `8`, `Shift` + `'` → modifier letter prime (ISO 9 Cyrillic transliteration, Skolt Sámi)
 
 # The Location of the Misc. Symbols Key
 
