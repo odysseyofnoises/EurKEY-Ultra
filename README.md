@@ -141,6 +141,8 @@ There are also several dashes and spacing modifiers included as part of the macr
 * `AltGr` + `7`, `Shift` + `0` → zero-width space
 * `AltGr` + `7`, `AltGr` + `9` → hair space
 * `AltGr` + `7`, `AltGr` + `0` → word joiner
+* `AltGr` + `7`, `-` → ‑ (non-breaking hyphen)
+* `AltGr` + `7`, `Shift` + `-` → soft hyphen
 * `AltGr` + `7`, `=` → ‒ (figure dash)
 * `AltGr` + `7`, `+` → figure space
 
