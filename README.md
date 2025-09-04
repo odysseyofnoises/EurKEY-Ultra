@@ -146,10 +146,12 @@ There are also several dashes and spacing modifiers included as part of the macr
 * `AltGr` + `7`, `=` → ‒ (figure dash)
 * `AltGr` + `7`, `Shift` + `=` → figure space
 
-The ring/dot above dead key also has two modifier letters:
+The ring/dot above dead key also has a few modifier letters:
 
-* `AltGr` + `8`, `'` → modifier letter apostrophe (Võro)
-* `AltGr` + `8`, `Shift` + `'` → modifier letter prime (ISO 9 Cyrillic transliteration, Skolt Sámi)
+* `AltGr` + `8`, `'` → ʼ modifier letter apostrophe (Võro)
+* `AltGr` + `8`, `Shift` + `'` → ʹ modifier letter prime (ISO 9 Cyrillic transliteration, Skolt Sámi)
+* `AltGr` + `8`, `Shift` + `;` → ꞉ modifier letter colon (files names)
+* `AltGr` + `8`, `/` → ⧸ big solidus (file names, song titles)
 
 # The Location of the Misc. Symbols Key
 
