@@ -130,7 +130,7 @@ A few letters used in Livonian have two accent marks. All of them have a macron 
 * `AltGr` + `2`, `AltGr` + `O` → ȭ
 * `AltGr` + `8`, `AltGr` + `O` → ȱ
 
-There are also several dashes and spacing modifiers included as part of the macron dead key:
+There are also several dashes and spaces included as part of the macron dead key:
 
 * `AltGr` + `7`, `1` → ‐ (hyphen)
 * `AltGr` + `7`, `2` → – (en dash)
