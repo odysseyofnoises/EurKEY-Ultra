@@ -1,6 +1,6 @@
 # EurKEY Ultra—Multilingual European and Symbolic Keyboard Layout
 
-EurKEY Ultra is a keyboard layout based off of EurKEY 1.3 beta by Steffen Brüntjen. At first, I was just looking for a keyboard to type German characters ä, ü, ö, and ß without having to use the Windows emoji picker menu. I tried the US international keyboard layout built into Windows and hated it because of the way it handles the quote and grave keys. Then I found EurKEY, which is a lot better because it doesn't get in your way and also has access to more symbols than the standard US international keyboard. EurKEY is a great layout, but I felt like there were some mistakes and missed opportunities in it. This got me interested in the idea of multilingual typing and led me to a quest to find the ultimate European keyboard. There's also Eumak, but that's only available for Linux. I saw there wasn't another keyboard out there that could type most European languages that use Latin-based characters, so I decided to try making one. The first version took a few days to make, and then I kept adding more letters and other symbols over the course of a few weeks. I used KbdEdit Premium to make this layout and used the MSKLC file for EurKEY 1.3 beta available on the EurKEY Keyboard Layouts - Clone Project on GitHub as a base. EurKEY Ultra was made for fun as an experiment.
+EurKEY Ultra is a keyboard layout based off of EurKEY 1.3 beta by Steffen Brüntjen. At first, I was just looking for a keyboard to type German characters ä, ü, ö, and ß without having to use the Windows emoji picker menu. I tried the US international keyboard layout built into Windows and hated it because of the way it handles the quote and grave keys. Then I found EurKEY, which is a lot better because it doesn't get in your way and also has access to more symbols than the standard US international keyboard. EurKEY is a great layout, but I felt like there were some mistakes and missed opportunities in it. This got me interested in the idea of multilingual typing and led me to a quest to find the ultimate European keyboard. There's also Eumak, but that's only available for Linux. I couldn't find anything else that could type most European languages that use Latin-based characters (but later did find some; see the "Alternatives to EurKEY Ultra section at the end), so I decided to try making one. The first version took a few days to make, and then I kept adding more letters and other symbols over the course of a few weeks. I used KbdEdit Premium to make this layout and used the MSKLC file for EurKEY 1.3 beta available on the EurKEY Keyboard Layouts - Clone Project on GitHub as a base. EurKEY Ultra was made for fun as an experiment.
 
 Note: I don't publish a separate version every time I make a small change. For some of the bigger changes I made, I released them as separate "old" versions. These old versions are included for archival and for curiosity. If you want to make sure you have the latest version, check the date of the release.
 
@@ -56,7 +56,7 @@ On Windows, a standalone installation exe is included if you just want to instal
 
 ## Math Symbols—`AltGr` + `M`
 
-### Without `Shift` or `AltGr` Key
+### No Modifier
 
 <img src="screenshots/layout/math.png" width="800">
 
@@ -74,7 +74,7 @@ On Windows, a standalone installation exe is included if you just want to instal
 
 ## Misc. Symbols—`AltGr` + `\`
 
-### Without `Shift` or `AltGr` Key
+### No Modifier
 
 <img src="screenshots/layout/misc-symbols.png" width="800">
 
@@ -106,19 +106,19 @@ For math and miscellaneous symbols, most of the symbols either resemble the shap
 
 Many letters used in western European languages can be typed without using any dead keys, except for circumflex letters like ê â ô for French and tilde letters ã õ for Portuguese. You can just use `AltGr` + QWERTY letters to type characters that are commonly used in many languages, such as `AltGr` + `A` → ä, `AltGr` + `G` → é. For other languages, this keyboard layout uses a system of ten keys to type accented characters. The number keys are used becase they are in the same place on most keyboard layouts. The key to the left of `1` is also used, which is sometimes a `0`, but usually something else, depending on the region. In order to understand which accents correspond to which number, you have to look at the shape of that number. Here's how to visualize the dead-key system:
 
-* `AltGr` + [key left of 1] → Grave. No visual mnemonic. Just remember it's next to the `1` key, which is used for acute. Examples: è, ì, à
-* `AltGr` + `1` → Acute. The top of the number 1 looks like an acute accent. Examples: ó, í, ú, also έ, ά, ώ (Greek tonos)
-* `AltGr` + `2` → Tilde. The number 2, rotated sideways, looks like a tilde symbol. Examples: ã, õ, also ΰ, ΐ (Greek combined diacritics)
-* `AltGr` + `3` → Double acute. The numeral 3 has two "hooks" that look like a double acute when the number is turned sideways. Examples: ő, ű
-* `AltGr` + `4` → Circumflex. The top of the number 4 looks like a circumflex. Examples: ô, â, î
-* `AltGr` + `5` → Caron. The bottom curve of the number 5 represents a caron. Examples: š, ž, ř
-* `AltGr` + `6` → Ogonek. The number 6 looks like an ogonek. Examples: ę, ą, ų
-* `AltGr` + `7` → Macron. The line on the top of the 7 represents a macron. Examples: ō, ī, ā, also ł, đ, ħ, ŧ, ǥ
-* `AltGr` + `8` → Dot and ring above. The top loop of the 8 represents a dot or ring (both are combined into the same key). Examples: ż, ė, ů
-* `AltGr` + `9` → Comma below. The number 9 looks like a comma. Examples: ș, ț, ķ*
-* `AltGr` + `Shift` + `1` → Diaeresis (umlaut). Follows the same convention as the US international layout by being paired with the acute key. Examples: ä, ü, ë, also ϋ, ϊ (Greek dialytica)
-* `AltGr` + `Shift` + `5` → Breve. The bottom curve of the number 5 also looks like a breve. Examples: ă, ŭ, ğ
-* `AltGr` + `Shift` + `9` → Cedilla. The number 9 also looks like a cedilla. Examples: ş, ç, also ʒ, ŋ
+* `AltGr` + [key left of 1] → Grave. No visual mnemonic. Just remember it's next to the `1` key, which is used for acute. Example letters: è, ì, à
+* `AltGr` + `1` → Acute. The top of the number 1 looks like an acute accent. Example letters: ó, í, ú, also έ, ά, ώ (Greek tonos)
+* `AltGr` + `2` → Tilde. The number 2, rotated sideways, looks like a tilde symbol. Example letters: ã, õ, also ΰ, ΐ (Greek combined diacritics)
+* `AltGr` + `3` → Double acute. The numeral 3 has two "hooks" that look like a double acute when the number is turned sideways. Example letters: ő, ű
+* `AltGr` + `4` → Circumflex. The top of the number 4 looks like a circumflex. Example letters: ô, â, î
+* `AltGr` + `5` → Caron. The bottom curve of the number 5 represents a caron. Example letters: š, ž, ř
+* `AltGr` + `6` → Ogonek. The number 6 looks like an ogonek. Example letters: ę, ą, ų
+* `AltGr` + `7` → Macron. The line on the top of the 7 represents a macron. Example letters: ō, ī, ā, also ł, đ, ħ, ŧ, ǥ
+* `AltGr` + `8` → Dot and ring above. The top loop of the 8 represents a dot or ring (both are combined into the same key). Example letters: ż, ė, ů
+* `AltGr` + `9` → Comma below. The number 9 looks like a comma. Example letters: ș, ț, ķ*
+* `AltGr` + `Shift` + `1` → Diaeresis (umlaut). Follows the same convention as the US international layout by being paired with the acute key. Example letters: ä, ü, ë, also ϋ, ϊ (Greek dialytica)
+* `AltGr` + `Shift` + `5` → Breve. The bottom curve of the number 5 also looks like a breve. Example letters: ă, ŭ, ğ
+* `AltGr` + `Shift` + `9` → Cedilla. The number 9 also looks like a cedilla. Example letters: ş, ç, also ʒ, ŋ
 
 Note:
 
@@ -144,7 +144,7 @@ There are also several dashes and spacing modifiers included as part of the macr
 * `AltGr` + `7`, `-` → ‑ (non-breaking hyphen)
 * `AltGr` + `7`, `Shift` + `-` → soft hyphen
 * `AltGr` + `7`, `=` → ‒ (figure dash)
-* `AltGr` + `7`, `+` → figure space
+* `AltGr` + `7`, `Shift` + `=` → figure space
 
 The ring/dot above dead key also has two modifier letters:
 
@@ -172,3 +172,61 @@ Due to differences between ISO and ANSI layouts, the location of the misc. symbo
 * The keyboard layout is designed with US QWERTY layout in mind. If you're not using a US QWERTY keyboard, this layout will still work, but note that some letters and symbols won't visually make sense to what's printed on your keycaps. All of the accents are typed using the number keys, at least, which are the same on most keyboards
 * Although I tried to include and test every European language I could find that uses a Latin script, I probably missed some characters somewhere. I can't guarantee support for every minority language, but most European languages should be covered, as well as all official EU languages except Bulgarian. Languages that use Cyrillic characters won't work in general on this layout. If I missed another letter, let me know, and I'll add it if I can
 * The Caps Lock key is repurposed to type Greek. You can still type in all caps using the Shift key, but if you prefer using Caps Lock, then you probably won't like this layout
+
+# Alternatives to EurKEY Ultra
+
+If you decide EurKEY Ultra isn't for you, here are some other alternatives worth looking at. These support multilingual European typing, math symbols, or both:
+
+## US English keyboard with all Latin accents using chained dead keys
+
+For Windows. An example layout from KbdEdit's website. Has 26 accents and supports stacking diacritics.
+
+https://www.kbdedit.com/manual/ex18_latin_all_accents_chained_dead.html
+
+## US International Scientific Keyboard Layout
+
+For Windows. Includes many commonly used diacritics and tons of math symbols.
+
+https://github.com/BelugaHaechi/US-International-Scientific-Keyboard
+
+## kbdLayout-Mac
+
+macOS only, but has 26 accents, with the ability to stack diacritics, and tons of math symbols. Has both Russian and English versions.
+
+https://github.com/eugenesvk/kbdLayout-Mac
+
+## Math Keyboard layout for QWERTY keyboards on Windows
+
+For Windows. Can type many common math symbols.
+
+https://www.jkorpela.fi/math/kbd.html
+
+## Neo
+
+For Windows, Mac, and Linux. Optimized for German, but supports many languages and math symbols.
+
+https://neo-layout.org/
+
+## BÉPO
+
+For Windows, Mac, and Linux. Optimized for French, but supports all Latin-based EU languages, Greek, and Esperanto.
+
+https://bepo.fr/wiki/Accueil
+
+## Eumak
+
+Linux only, but has broad support for many European languages.
+
+https://eumak.org/
+
+## SmartLayer
+
+Linux only, but has many common accented letters and math symbols.
+
+https://github.com/SmartLayer/SmartLayer?tab=readme-ov-file
+
+## XKB Math-Layout
+
+Linux only. Based on German QWERTZ layout. Supports some common math symbols and Greek letters.
+
+https://github.com/SV-97/Math-Layout
