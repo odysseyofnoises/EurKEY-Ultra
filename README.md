@@ -149,8 +149,8 @@ There are also several dashes and spaces included as part of the macron dead key
 The ring/dot above dead key also has a few modifier letters:
 
 * `AltGr` + `8`, `'` → ʼ modifier letter apostrophe (Võro)
-* `AltGr` + `8`, `Shift` + `'` → ʹ modifier letter prime (ISO 9 Cyrillic transliteration, Skolt Sámi)
-* `AltGr` + `8`, `AltGr` + `'` → modifier letter double prime (ISO 9 Cyrillic transliteration)
+* `AltGr` + `8`, `Shift` + `'` → ʹ modifier letter prime (soft sign in ISO 9 Cyrillic transliteration, Skolt Sámi)
+* `AltGr` + `8`, `AltGr` + `'` → ʺ modifier letter double prime (hard sign in ISO 9 Cyrillic transliteration)
 * `AltGr` + `8`, `Shift` + `;` → ꞉ modifier letter colon (files names)
 * `AltGr` + `8`, `/` → ⧸ big solidus (file names, song titles)
 
