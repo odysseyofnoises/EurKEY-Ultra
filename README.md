@@ -180,62 +180,42 @@ Due to differences between ISO and ANSI layouts, the location of the misc. symbo
 
 If you decide EurKEY Ultra isn't for you, here are some other alternatives worth looking at. These support multilingual European typing, math symbols, or both:
 
-## Kreative SuperLatin Keyboard Layout
+* **Kreative SuperLatin Keyboard Layout**
+  * For Winodws, macOS, and Linux. Can type all of the most commonly used accented letters
+  * https://www.kreativekorp.com/software/keyboards/superlatin/
 
-For Winodws, macOS, and Linux. Can type all of the most commonly used accented letters.
+* **US English keyboard with all Latin accents using chained dead keys**
+  * For Windows. An example layout from KbdEdit's website. Has 26 accents and supports stacking diacritics
+  * https://www.kbdedit.com/manual/ex18_latin_all_accents_chained_dead.html
 
-https://www.kreativekorp.com/software/keyboards/superlatin/
+* **US International Scientific Keyboard Layout**
+  * For Windows. Includes many commonly used diacritics and tons of math symbols
+  * https://github.com/BelugaHaechi/US-International-Scientific-Keyboard
 
-## US English keyboard with all Latin accents using chained dead keys
+* **kbdLayout-Mac**
+  * macOS only, but has 26 accents, with the ability to stack diacritics, and tons of math symbols. Has both Russian and English versions
+  * https://github.com/eugenesvk/kbdLayout-Mac
 
-For Windows. An example layout from KbdEdit's website. Has 26 accents and supports stacking diacritics.
+* **Math Keyboard layout for QWERTY keyboards on Windows**
+  * For Windows. Can type many common math symbols
+  * https://www.jkorpela.fi/math/kbd.html
 
-https://www.kbdedit.com/manual/ex18_latin_all_accents_chained_dead.html
+* **Neo**
+  * For Windows, macOS, and Linux. Optimized for German, but supports many languages and math symbols
+  * https://neo-layout.org/
 
-## US International Scientific Keyboard Layout
+* **BÉPO**
+  * For Windows, macOS, and Linux. Optimized for French, but supports all Latin-based EU languages, Greek, and Esperanto
+  * https://bepo.fr/wiki/Accueil
 
-For Windows. Includes many commonly used diacritics and tons of math symbols.
+* **Eumak**
+  * Linux only, but has broad support for many European languages
+  * https://eumak.org/
 
-https://github.com/BelugaHaechi/US-International-Scientific-Keyboard
+* **SmartLayer**
+  * Linux only, but has many common accented letters and math symbols
+  * https://github.com/SmartLayer/SmartLayer?tab=readme-ov-file
 
-## kbdLayout-Mac
-
-macOS only, but has 26 accents, with the ability to stack diacritics, and tons of math symbols. Has both Russian and English versions.
-
-https://github.com/eugenesvk/kbdLayout-Mac
-
-## Math Keyboard layout for QWERTY keyboards on Windows
-
-For Windows. Can type many common math symbols.
-
-https://www.jkorpela.fi/math/kbd.html
-
-## Neo
-
-For Windows, macOS, and Linux. Optimized for German, but supports many languages and math symbols.
-
-https://neo-layout.org/
-
-## BÉPO
-
-For Windows, macOS, and Linux. Optimized for French, but supports all Latin-based EU languages, Greek, and Esperanto.
-
-https://bepo.fr/wiki/Accueil
-
-## Eumak
-
-Linux only, but has broad support for many European languages.
-
-https://eumak.org/
-
-## SmartLayer
-
-Linux only, but has many common accented letters and math symbols.
-
-https://github.com/SmartLayer/SmartLayer?tab=readme-ov-file
-
-## XKB Math-Layout
-
-Linux only. Based on German QWERTZ layout. Supports some common math symbols and Greek letters.
-
-https://github.com/SV-97/Math-Layout
+* XKB Math-Layout
+  * Linux only. Based on German QWERTZ layout. Supports some common math symbols and Greek letters
+  * https://github.com/SV-97/Math-Layout
