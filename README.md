@@ -180,6 +180,12 @@ Due to differences between ISO and ANSI layouts, the location of the misc. symbo
 
 If you decide EurKEY Ultra isn't for you, here are some other alternatives worth looking at. These support multilingual European typing, math symbols, or both:
 
+## Kreative SuperLatin Keyboard Layout
+
+For Winodws, macOS, and Linux. Can type all of the most commonly used accented letters.
+
+https://www.kreativekorp.com/software/keyboards/superlatin/
+
 ## US English keyboard with all Latin accents using chained dead keys
 
 For Windows. An example layout from KbdEdit's website. Has 26 accents and supports stacking diacritics.
@@ -206,13 +212,13 @@ https://www.jkorpela.fi/math/kbd.html
 
 ## Neo
 
-For Windows, Mac, and Linux. Optimized for German, but supports many languages and math symbols.
+For Windows, macOS, and Linux. Optimized for German, but supports many languages and math symbols.
 
 https://neo-layout.org/
 
 ## BÉPO
 
-For Windows, Mac, and Linux. Optimized for French, but supports all Latin-based EU languages, Greek, and Esperanto.
+For Windows, macOS, and Linux. Optimized for French, but supports all Latin-based EU languages, Greek, and Esperanto.
 
 https://bepo.fr/wiki/Accueil
 
