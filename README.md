@@ -62,7 +62,7 @@ On Windows, a standalone installation exe is included if you just want to instal
 
 This keyboard layout uses **dead keys** to type symbols and accented letters. The layout is divided into layers and sublayers. If you aren't trying to type special characters, the keyboard will just work like a regular US QWERTY keyboard, except for the `Caps Lock` key, which switches to Greek letters. The other layers are accessed with the `AltGr` (Right `Alt`) key. The dead keys are highlighted in gray in the screenshots.
 
-Typing symbols involves two steps. First, press `AltGr` + another key to enter one of the main layers. After that, press a combination of one, two, or three keys to type the symbol you want. To type an accented letter, just press the letter that takes the accent after the dead key sequence. Accented letters are typed with `AltGr` and keys on the top row, the math layer is on `AltGr` + `M`, and the miscellaneous symbols layer is on `AltGr` + `\`. In these instructions, a **+** (plus sign) means you press two keys at the same time, and a **,** (comma) means let go of all the keys. For example, a key sequence like `AltGr` + `2`, `Shift` + `O` → Õ should be interpreted as "press `AltGr` and `2` together, let go of both keys, and then press `Shift` and `O` together." The capital version of any letter can be made by adding `Shift` before the last key, such as `AltGr` + `Shift` + `5`, `Shift` + `A` → Ă.
+Typing symbols involves two steps. First, press `AltGr` + another key to enter one of the main layers. After that, press a combination of one, two, or three keys to type the symbol you want. To type an accented letter, just press the letter that takes the accent after the dead key sequence. Accented letters are typed with `AltGr` and keys on the top row, the math layer is on `AltGr` + `M`, and the miscellaneous symbols layer is on `AltGr` + `\`. The physical placement of the `\` will depend on your keyboard, but will be near the `Enter` key. In these instructions, a **+** (plus sign) means you press two keys at the same time, and a **,** (comma) means let go of all the keys. For example, a key sequence like `AltGr` + `2`, `Shift` + `O` → Õ should be interpreted as "press `AltGr` and `2` together, let go of both keys, and then press `Shift` and `O` together." The capital version of any letter can be made by adding `Shift` before the last key, such as `AltGr` + `Shift` + `5`, `Shift` + `A` → Ă.
 
 The math and misc. symbols layers each have four sublayers: the base layer (no modifier), `Shift`, `AltGr`, and `Shift` + `AltGr`. To see which symbols you can type, and how to type them, follow the screenshots. For example, to type the ∈ symbol on the math layer, press `AltGr` + `M` together. Then let go of both keys, and press `K`. To type ⋈, you would press `AltGr` + `M`, then `AltGr` + `W`. To type ⌘ on the misc. symbols layer, press `AltGr` + `\`, and then `AltGr` + `Shift` + `X`. If a key combination has `AltGr` twice in it, you could keep holding `AltGr`. In that case, for ⋈ you could press `AltGr` + `M`, then let go of `M` but keep holding `AltGr`, then press `W`, and for ⌘ you could press `AltGr` + `\`, then let go of only `\` and press `Shift` + `X`.
 
@@ -120,19 +120,6 @@ The ring/dot above dead key also has a few modifier letters:
 * `AltGr` + `9`, `AltGr` + `'` → ʺ modifier letter double prime (hard sign in ISO 9 Cyrillic transliteration)
 * `AltGr` + `9`, `Shift` + `;` → ꞉ modifier letter colon (files names)
 * `AltGr` + `9`, `/` → ⧸ big solidus (file names, song titles)
-
-# The Location of the Misc. Symbols Key
-
-Due to differences between ISO and ANSI layouts, the location of the misc. symbols dead key will be different on different keyboards. Press `AltGr` together with the highlighted key to get to these symbols. Here's a visual representation of where the key is on different boards:
-
-## ANSI
-<img src="screenshots/layout/misc-key-ansi.png" width="500">
-
-## ISO
-<img src="screenshots/layout/misc-key-iso.png" width="500">
-
-## ISO Variant
-<img src="screenshots/layout/misc-key-iso-variant.png" width="500">
 
 # Limitations of EurKEY Ultra
 
