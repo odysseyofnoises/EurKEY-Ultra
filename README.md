@@ -42,117 +42,84 @@ On Windows, a standalone installation exe is included if you just want to instal
 
 ## Language Characters
 
-### `AltGr` Layer
+### Base Layer
 
-<img src="screenshots/layout/altgr.png" width="800">
-
-### `AltGr` + `Shift` Layer
-
-<img src="screenshots/layout/altgr-shift.png" width="800">
+<img src="screenshots/layout/base.png" width="1000">
 
 ## Greek Keyboard—`Caps Lock`
 
-<img src="screenshots/layout/greek.png" width="800">
+<img src="screenshots/layout/greek.png" width="1000">
 
 ## Math Symbols—`AltGr` + `M`
 
-### No Modifier
-
-<img src="screenshots/layout/math.png" width="800">
-
-### With `Shift` Key
-
-<img src="screenshots/layout/math-shift.png" width="800">
-
-### With `AltGr` Key
-
-<img src="screenshots/layout/math-altgr.png" width="800">
-
-### With `AltGr` + `Shift` Keys
-
-<img src="screenshots/layout/math-altgr-shift.png" width="800">
+<img src="screenshots/layout/math.png" width="1000">
 
 ## Misc. Symbols—`AltGr` + `\`
 
-### No Modifier
-
-<img src="screenshots/layout/misc-symbols.png" width="800">
-
-### With `Shift` Key
-
-<img src="screenshots/layout/misc-symbols-shift.png" width="800">
-
-### With `AltGr` Key
-
-<img src="screenshots/layout/misc-symbols-altgr.png" width="800">
-
-### With `AltGr` + `Shift` Keys
-
-<img src="screenshots/layout/misc-symbols-altgr-shift.png" width="800">
+<img src="screenshots/layout/misc.png" width="1000">
 
 # How to Use This Keyboard Layout
 
-This keyboard layout uses **dead keys** to type symbols and accented letters. The layout is divided into layers and sublayers. If you aren't trying to type special characters, the keyboard will just work like a regular US QWERTY keyboard, except for the `Caps Lock` key, which switches to Greek letters. The other layers are accessed with the `AltGr` (right `Alt`) key. The dead keys are highlighted in blue in the screenshots.
+This keyboard layout uses **dead keys** to type symbols and accented letters. The layout is divided into layers and sublayers. If you aren't trying to type special characters, the keyboard will just work like a regular US QWERTY keyboard, except for the `Caps Lock` key, which switches to Greek letters. The other layers are accessed with the `AltGr` (Right `Alt`) key. The dead keys are highlighted in gray in the screenshots.
 
-Typing symbols involves two steps. First, press `AltGr` + another key to enter one of the main layers (or `AltGr` + `Shift` + a number for a few accents). After that, press a combination of one, two, or three keys to type the symbol you want. To type an accented letter, just press the letter that takes the accent after the dead key sequence. Accented letters are typed with `AltGr` + number keys, the math layer is on `AltGr` + `M`, and the miscellaneous symbols layer is on `AltGr` + `\`. In these instructions, a **+** (plus sign) means you press two keys at the same time, and a **,** (comma) means let go of all the keys. For example, a key sequence like `AltGr` + `2`, `Shift` + `O` → Õ should be interpreted as "press `AltGr` and `2` together, let go of both keys, and then press `Shift` and `O` together." The capital version of any letter can be made by adding `Shift` before the last key, such as `AltGr` + `Shift` + `5`, `Shift` + `A` → Ă
+Typing symbols involves two steps. First, press `AltGr` + another key to enter one of the main layers. After that, press a combination of one, two, or three keys to type the symbol you want. To type an accented letter, just press the letter that takes the accent after the dead key sequence. Accented letters are typed with `AltGr` and keys on the top row, the math layer is on `AltGr` + `M`, and the miscellaneous symbols layer is on `AltGr` + `\`. In these instructions, a **+** (plus sign) means you press two keys at the same time, and a **,** (comma) means let go of all the keys. For example, a key sequence like `AltGr` + `2`, `Shift` + `O` → Õ should be interpreted as "press `AltGr` and `2` together, let go of both keys, and then press `Shift` and `O` together." The capital version of any letter can be made by adding `Shift` before the last key, such as `AltGr` + `Shift` + `5`, `Shift` + `A` → Ă.
 
-The math and misc. symbols layers each have four sublayers: the base layer (no modifier), `Shift`, `AltGr`, and `Shift` + `AltGr`. To see which symbols you can type, and how to type them, follow the screenshots. For example, to type the ∈ symbol on the math layer, press `AltGr` + `M` together. Then let go of both keys, and press `K`. To type ⋈, you would press `AltGr` + `M`, then `AltGr` + `W`. To type ⌘ on the misc. symbols layer, press `AltGr` + `\`, and then `AltGr` + `Shift` + `X`. If a key combination has `AltGr` twice in it, you could keep holding `AltGr`. In that case, for ⋈ you could press `AltGr` + `M`, then let go of `M` but keep holding `AltGr`, then press `W`, and for ⌘ you could press `AltGr` + `\`, then let go of only `\` and press `Shift` + `X`. 
+The math and misc. symbols layers each have four sublayers: the base layer (no modifier), `Shift`, `AltGr`, and `Shift` + `AltGr`. To see which symbols you can type, and how to type them, follow the screenshots. For example, to type the ∈ symbol on the math layer, press `AltGr` + `M` together. Then let go of both keys, and press `K`. To type ⋈, you would press `AltGr` + `M`, then `AltGr` + `W`. To type ⌘ on the misc. symbols layer, press `AltGr` + `\`, and then `AltGr` + `Shift` + `X`. If a key combination has `AltGr` twice in it, you could keep holding `AltGr`. In that case, for ⋈ you could press `AltGr` + `M`, then let go of `M` but keep holding `AltGr`, then press `W`, and for ⌘ you could press `AltGr` + `\`, then let go of only `\` and press `Shift` + `X`.
 
-For math and miscellaneous symbols, most of the symbols either resemble the shape of the letter used to type them, or the symbol's name starts with the last letter used to type it. For example, `AltGr` + `M`, `Shift` + `S` → ∫ (integral sign, shaped like an S), or `AltGr` + `M`, `P` → ∂ (partial derivative symbol, name starts with a P). Understanding the symbol placement is like understanding the dynamics of high school culture. In high school, everyone belongs to a sort of "niche." There are jocks, nerds, goths, cheerleaders, and so on. In this keyboard layout, similar symbols go together too, either by being next to each other, being on the same sublayer, or being on the same key. For example, the set-relation symbols are on `G`, `H`, and `B`, and the weather symbols are mostly capital letters that represent the start of the name, like `Shift` + `S` for ☀ and `Shift` + `C` for ☁. For math symbols, the most common ones are usually typed without `Shift` or `AltGr` after the dead key, like ∃ ∞ ∧ ∘ ∅ ∛. These are the popular symbols that everyone is asking out to the big dance ☺. `Shift` is also used to type some common symbols, like ∀ ℤ ∫ ⊕ and some rarer symbols like ∮ ℘ ⊻ ∬. Most of the rarest symbols are on the `AltGr` and `AltGr` + `Shift` sublayers, like ⊞ ⋓ ⨖.
+For math and miscellaneous symbols, most of the symbols either resemble the shape of the letter used to type them, or the symbol's name starts with the last letter used to type it. For example, `AltGr` + `M`, `Shift` + `S` → ∫ (integral sign, shaped like an S), or `AltGr` + `M`, `P` → ∂ (partial derivative symbol, name starts with a P). Understanding the symbol placement is like understanding the dynamics of high school culture. In high school, everyone belongs to a sort of "niche." There are jocks, nerds, goths, cheerleaders, and so on. In this keyboard layout, similar symbols go together too, either by being next to each other, being on the same sublayer, or being on the same key. For example, the set-relation symbols are on `G`, `H`, and `B`, and the weather symbols are mostly capital letters that represent the start of the name, like `Shift` + `S` for ☀ and `Shift` + `C` for ☁. For math symbols, the most common ones are usually typed without `Shift` or `AltGr` after the dead key, like ∃ ∞ ∧ ∘ ∅ ∛. In the analogy, these are the popular symbols that everyone is asking out to the big dance. `Shift` is also used to type some common symbols, like ∀ ℤ ∫ ⊕ and some rarer symbols like ∮ ℘ ⊻ ∬. Most of the rarest symbols are on the `AltGr` and `AltGr` + `Shift` sublayers, like ⊞ ⋓ ⨖.
 
 ## Visual Mnemonic for Accents
 
 <img src="screenshots/layout/mnemonic.png" width="500">
 
-Many letters used in western European languages can be typed without using any dead keys, except for circumflex letters like ê â ô for French and tilde letters ã õ for Portuguese. You can just use `AltGr` + QWERTY letters to type characters that are commonly used in many languages, such as `AltGr` + `A` → ä, `AltGr` + `G` → é. For other languages, this keyboard layout uses a system of ten keys to type accented characters. The number keys are used becase they are in the same place on most keyboard layouts. The key to the left of `1` is also used, which is sometimes a `0`, but usually something else, depending on the region. In order to understand which accents correspond to which number, you have to look at the shape of that number. Here's how to visualize the dead-key system:
+Many letters used in western European languages can be typed without using any dead keys, except for circumflex letters like ê â ô for French and tilde letters ã õ for Portuguese. You can just use `AltGr` + QWERTY letters to type characters that are commonly used in many languages, such as `AltGr` + `A` → ä, `AltGr` + `G` → é. For other languages, this keyboard layout uses a system of twelve keys to type accented characters. The number keys are used becase they are in the same place on most keyboard layouts. The key to the left of `1` is used, which is sometimes a `0`, but usually something else, depending on the region. The key to the right of `0` is also used. In order to understand which accents correspond to which number, you have to look at the shape of that number. Here's how to visualize the dead-key system:
 
-* `AltGr` + [key left of 1] → Grave. No visual mnemonic. Just remember it's next to the `1` key, which is used for acute. Example letters: è, ì, à
+* `AltGr` + `ˋ` → Grave. Has a grave symbol printed on some keyboards. Next to the `1` key, which is used for acute. Example letters: è, ì, à
 * `AltGr` + `1` → Acute. The top of the number 1 looks like an acute accent. Example letters: ó, í, ú, also έ, ά, ώ (Greek tonos)
-* `AltGr` + `2` → Tilde. The number 2, rotated sideways, looks like a tilde symbol. Example letters: ã, õ, also ΰ, ΐ (Greek combined diacritics)
-* `AltGr` + `3` → Double acute. The numeral 3 has two "hooks" that look like a double acute when the number is turned sideways. Example letters: ő, ű
+* `AltGr` + `2` → Tilde. The number 2, rotated sideways, looks like a tilde symbol. Example letters: ã, õ
+* `AltGr` + `3` → Double acute. The numeral 3 has two "hooks" that look like a double acute when the number is turned sideways. Example letters: ő, ű, also ΰ, ΐ (Greek combined diacritics)
 * `AltGr` + `4` → Circumflex. The top of the number 4 looks like a circumflex. Example letters: ô, â, î
 * `AltGr` + `5` → Caron. The bottom curve of the number 5 represents a caron. Example letters: š, ž, ř
-* `AltGr` + `6` → Ogonek. The number 6 looks like an ogonek. Example letters: ę, ą, ų
-* `AltGr` + `7` → Macron. The line on the top of the 7 represents a macron. Example letters: ō, ī, ā, also ł, đ, ħ, ŧ, ǥ
-* `AltGr` + `8` → Dot and ring above. The top loop of the 8 represents a dot or ring (both are combined into the same key). Example letters: ż, ė, ů
-* `AltGr` + `9` → Comma below. The number 9 looks like a comma. Example letters: ș, ț, ķ*
-* `AltGr` + `Shift` + `1` → Diaeresis (umlaut). Follows the same convention as the US international layout by being paired with the acute key. Example letters: ä, ü, ë, also ϋ, ϊ (Greek dialytica)
-* `AltGr` + `Shift` + `5` → Breve. The bottom curve of the number 5 also looks like a breve. Example letters: ă, ŭ, ğ
-* `AltGr` + `Shift` + `9` → Cedilla. The number 9 also looks like a cedilla. Example letters: ş, ç, also ʒ, ŋ
+* `AltGr` + `6` → Ogonek and Cedilla. The bottom curve of the number 6 can represent either an ogonek or cedilla (both are combined into the same key). Example letters: ę, ą, ų (ogonek), ş, ç (cedilla), also ŋ, ʒ
+* `AltGr` + `7` → Comma below. The diagonal line of the number 7 goes in the same direction as the comma below. Example letters: ș, ț, ķ*
+* `AltGr` + `8` → Diaeresis (Umlaut). The letter 8 has two circles that look like two dots when turned sideways. Example letters: ä, ü, ë, also ϋ, ϊ (Greek dialytica)
+* `AltGr` + `9` → Dot and ring above. The top loop of the 9 represents a dot or ring (both are combined into the same key). Example letters: ż, ė, ů
+* `AltGr` + `0` → Breve. The bottom curve of the number 0 looks like a breve. Example letters: ă, ŭ, ğ
+* `AltGr` + `-` → Macron. Has a hyphen minus printed on some keyboards. The line represents a macron. Example letters: ō, ī, ā, also ł, đ, ħ, ŧ, ǥ
 
 Note:
 
 *Some letters, like ķ, should be rendered with a comma below, but Unicode labels them as having cedillas. Despite Unicode's incorrect labeling, these letters are included in the dead key for comma below to match their actual function.
 
-A few letters used in Livonian have two accent marks. All of them have a macron on top. To type them, first use the dead key for the bottom accent, then use `AltGr` + the base letter to add the macron on top. These are the key sequences:
+A few letters used in Livonian have two stacked accent marks. All of them have a macron on top. To type them, first use the dead key for the bottom accent, then use `AltGr` + the base letter to add the macron on top. These are the key sequences:
 
-* `AltGr` + `Shift` + `1`, `AltGr` + `A` → ǟ
+* `AltGr` + `8`, `AltGr` + `A` → ǟ
 * `AltGr` + `2`, `AltGr` + `O` → ȭ
-* `AltGr` + `8`, `AltGr` + `O` → ȱ
+* `AltGr` + `9`, `AltGr` + `O` → ȱ
 
 There are also several dashes and spaces included as part of the macron dead key:
 
-* `AltGr` + `7`, `1` → ‐ (hyphen)
-* `AltGr` + `7`, `2` → – (en dash)
-* `AltGr` + `7`, `3` → — (em dash)
-* `AltGr` + `7`, `9` → no-break space
-* `AltGr` + `7`, `0` → narrow no-break space
-* `AltGr` + `7`, `Shift` + `9` → thin space
-* `AltGr` + `7`, `Shift` + `0` → zero-width space
-* `AltGr` + `7`, `AltGr` + `9` → hair space
-* `AltGr` + `7`, `AltGr` + `0` → word joiner
-* `AltGr` + `7`, `-` → ‑ (non-breaking hyphen)
-* `AltGr` + `7`, `Shift` + `-` → soft hyphen
-* `AltGr` + `7`, `=` → ‒ (figure dash)
-* `AltGr` + `7`, `Shift` + `=` → figure space
+* `AltGr` + `-`, `1` → ‐ (hyphen)
+* `AltGr` + `-`, `2` → – (en dash)
+* `AltGr` + `-`, `3` → — (em dash)
+* `AltGr` + `-`, `9` → no-break space
+* `AltGr` + `-`, `0` → narrow no-break space
+* `AltGr` + `-`, `Shift` + `9` → thin space
+* `AltGr` + `-`, `Shift` + `0` → zero-width space
+* `AltGr` + `-`, `AltGr` + `9` → hair space
+* `AltGr` + `-`, `AltGr` + `0` → word joiner
+* `AltGr` + `-`, `-` → ‑ (non-breaking hyphen)
+* `AltGr` + `-`, `Shift` + `-` → soft hyphen
+* `AltGr` + `-`, `=` → ‒ (figure dash)
+* `AltGr` + `-`, `Shift` + `=` → figure space
 
 The ring/dot above dead key also has a few modifier letters:
 
-* `AltGr` + `8`, `'` → ʼ modifier letter apostrophe (Võro)
-* `AltGr` + `8`, `Shift` + `'` → ʹ modifier letter prime (soft sign in ISO 9 Cyrillic transliteration, Skolt Sámi)
-* `AltGr` + `8`, `AltGr` + `'` → ʺ modifier letter double prime (hard sign in ISO 9 Cyrillic transliteration)
-* `AltGr` + `8`, `Shift` + `;` → ꞉ modifier letter colon (files names)
-* `AltGr` + `8`, `/` → ⧸ big solidus (file names, song titles)
+* `AltGr` + `9`, `'` → ʼ modifier letter apostrophe (Võro)
+* `AltGr` + `9`, `Shift` + `'` → ʹ modifier letter prime (soft sign in ISO 9 Cyrillic transliteration, Skolt Sámi)
+* `AltGr` + `9`, `AltGr` + `'` → ʺ modifier letter double prime (hard sign in ISO 9 Cyrillic transliteration)
+* `AltGr` + `9`, `Shift` + `;` → ꞉ modifier letter colon (files names)
+* `AltGr` + `9`, `/` → ⧸ big solidus (file names, song titles)
 
 # The Location of the Misc. Symbols Key
 
