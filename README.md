@@ -134,7 +134,7 @@ The ring/dot above dead key has a few modifier letters:
 * This keyboard layout won't fit everyone's preferences. Some people won't like the placement of the symbols, or some people won't like using dead keys to type accents, for example. A keyboard is a tool, so you should use whatever system works best for you
 * The keyboard layout is designed with US QWERTY layout in mind. If you're not using a US QWERTY keyboard, this layout will still work, but note that some letters and symbols won't visually make sense to what's printed on your keycaps. Almost all of the accents are typed using the number keys, at least, which are the same on most keyboards
 * Although I tried to include and test every European language I could find that uses a Latin script, I probably missed some characters somewhere. I can't guarantee support for every minority language, but most European languages should be covered, as well as all official EU languages except Bulgarian. Languages that use Cyrillic characters won't work in general on this layout. If I missed any other letter that's used in a modern European alphabet, let me know, and I'll add it if I can
-* The Caps Lock key is repurposed to type Greek. You can still type in all caps using the Shift key
+* The Caps Lock key is repurposed to type Greek. You can still type in all caps using the `Shift` key
 
 # Alternatives to EurKEY Ultra
 
