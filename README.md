@@ -118,6 +118,9 @@ There are several dashes and spaces included as part of the macron dead key:
 * `AltGr` + `-`, `Shift` + `-` → soft hyphen
 * `AltGr` + `-`, `=` → ‒ (figure dash)
 * `AltGr` + `-`, `Shift` + `=` → figure space
+* `AltGr` + `-`, `,` → invisible separator
+* `AltGr` + `-`, `.` → invisible times
+* `AltGr` + `-`, `/` → invisible plus
 
 The ring/dot above dead key has a few modifier letters:
 
