@@ -127,9 +127,6 @@ The ring/dot above dead key has a few modifier letters:
 * `AltGr` + `9`, `'` → ʼ modifier letter apostrophe (Võro)
 * `AltGr` + `9`, `Shift` + `'` → ʹ modifier letter prime (soft sign in ISO 9 Cyrillic transliteration, Skolt Sámi)
 * `AltGr` + `9`, `AltGr` + `'` → ʺ modifier letter double prime (hard sign in ISO 9 Cyrillic transliteration)
-* `AltGr` + `9`, `Shift` + `;` → ꞉ modifier letter colon (files names)
-* `AltGr` + `9`, `/` → ⧸ big solidus (file names, song titles)
-* `AltGr` + `9`, `\` → ⧹ big reverse solidus (file names)
 
 # Limitations of EurKEY Ultra
 
