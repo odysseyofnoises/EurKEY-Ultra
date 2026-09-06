@@ -141,6 +141,10 @@ The ring/dot above dead key has a few modifier letters:
 
 If you decide EurKEY Ultra isn't for you, here are some other alternatives worth looking at. These support multilingual European typing, math symbols, or both:
 
+* **EurKEY**
+  * The original EurKEY layout by Steffen Brüntjen, which EurKEY Ultra was based off of. Works well for many European languages
+  * https://eurkey.steffen.bruentjen.eu/
+
 * **Kreative SuperLatin Keyboard Layout**
   * For Winodws, macOS, and Linux. Can type all of the most commonly used accented letters. The website also include a SuperCyrillic keyboard, and others
   * https://www.kreativekorp.com/software/keyboards/superlatin/
